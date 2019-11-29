@@ -1,0 +1,522 @@
+﻿Artículo 7
+
+Quality standards in 480 pancreatic resections: a prospective observational study
+ 
+
+ABSTRACT
+
+Pancreatic resection is a standard procedure for the treatment of periampullary tumors. Morbidity and mortality are high, and quality standards are scarce in our setting. International classifications of complications (Clavien-Dindo) and those specific for pancreatectomies (ISGPS) allow adequate case comparisons. The goals of our work are to describe the morbidity and mortality of 480 pancreatectomies using the international classifications ISGPS and Clavien-Dindo to help establish a quality standard in our setting and to compare the results of CPD with reconstruction by pancreaticogastrostomy (1,55) versus 177 pancreaticojejunostomy). We report 480 resections including 337 duodenopancreatectomies, 116 distal pancreatectomies, 11 total pancreatectomies, 10 central pancreatectomies, and 6 enucleations. Results for duodenopancreatectomy include: 62 % morbidity (Clavien ? III 25.9 %), 12.3 % reinterventions, and 3.3 % overall mortality. For reconstruction by pancreaticojejunostomy: 71.2 % morbidity (Clavien ? III 34.4 %), 17.5 % reinterventions, and 3.3 % mortality. For reconstruction by pancreaticogastrostomy: 51 % morbidity (Clavien ? III 15.4%), 6.4 % reinterventions, and 3.2 % mortality. Differences are significant except for mortality. We conclude that our series meets quality criteria as compared to other groups. Reconstruction with pancreaticogastrostomy significantly reduces complication number and severity, as well as pancreatic fistula and reintervention rates.
+
+Key words: Pancreaticoduodenectomy. Pancreatectomy. Morbidity. Mortality. Quality Indicators. Health Care.
+
+
+Abbreviation list: 
+ISGPS: International Study Group of Pancreatic Surgery; 
+CDP: Cephalic duodenopancreatectomy; 
+DP: Distal pancreatectomy; 
+ASA: American Society of Anesthesiologists; 
+BMI: Body mass index; 
+PF: Pancreatic fistula; 
+DGE: Delayed gastric emptying; 
+PJ: Pancreaticojejunostomy; 
+PG: Pancreaticogastrostomy; 
+TP: Total duodenopancreatectomy; 
+ERAS: Enhanced recovery after surgery; 
+CP: Central pancreatectomy; 
+GIST: Gastrointestinal stromal tumors; 
+ICU: Intensive care unit.
+
+ 
+
+Introduction
+
+The increased number of pancreatic resections in specialized units has led to improved morbidity and mortality rates. Despite this, in our health care system, we have no postoperative quality standards specific for the two procedures most commonly used: Cephalic duodenopancreatectomy (CDP) and distal pancreatectomy (DP). Duodenopancreatectomy-related morbidity and mortality has been shown to decrease as the number of procedures per surgeon and hospital increases, even if limits are rather vague (1-4). Furthermore, quality references available mostly derive from series in health care environments where high-volume centers predominate (5). The description of complications as recently standardized by the ISGPS (6-8) and Clavien-Dindo (9,10) classifications (Table I) has been scarcely used in Spanish publications (5,11-14). This fact precludes case comparisons and hinders the establishment of quality standards adapted to our health care setting.
+
+ 
+
+
+
+ 
+
+The goals of our work are to describe the morbidity and mortality of 480 pancreatectomies using the international classifications ISGPS and Clavien-Dindo in order to help establish a quality standard in our setting, and to compare the results of CDP with reconstruction by pancreaticogastrostomy versus pancreaticojejunostomy.
+
+ 
+
+Patients and methods
+
+All patients undergoing pancreatic resection between June 1994 and June 2014 were included. Data were prospectively entered into a proprietary FileMaker Pro 3.0 database on patient discharge, also including readmissions within 30 days of discharge. Seventeen variables were studied: Demography, ASA classification, body mass index (BMI), diagnosis, surgical procedures, surgery date, surgical complications according to the ISGPS classification, pancreatic fistula (PF), delayed gastric emptying (DGE), bleeding and Clavien-Dindo, reintervention, infection, admission to ICU, need for radiological/endoscopic or transfusion procedures, mortality and its cause at 30 days or at any time point for inpatients, and hospital stay. Complications during readmission were added to overall results. Data before 2008 were adjusted to international classifications on a case-by-case basis, and reviewed by the primary author. Complications were deemed to be minor if Clavien I-II, and major if Clavien ? III-A, including mortality. All patients signed an informed consent according to the ethical guidelines provided by the Declaration of Helsinki as revised in 1975.
+
+According to pancreatic resection type patients were included in the following groups: CDP in two periods - from June 1994 to April 2008, where pancreatic reconstruction was performed by duct-to-mucosa pancreaticojejunostomy using a silicone drain (PJ) (15); and from April 2008 to June 2014, where the reconstruction of choice was by two-plane invaginated pancreaticogastrostomy as described by Delcore (PG) (16). Both cohorts were used to compare morbidity, mortality, and postoperative stay.
+
+Total duodenopancreatectomy (TP), where the whole pancreas is excised together with the duodenum and spleen, hence no suture or section border is present.
+
+Distal, body-tail or subtotal pancreatectomy, grouped together as distal pancreatectomies (DP) and categorized into two subgroups: Urgent (pancreatitis and trauma) or elective.
+
+Central pancreatectomy (CP), where a section of the proximal pancreas is performed and a portion of the pancreatic body is excised, with an anastomosis of the distal pancreas to the jejunum or stomach.
+
+Pancreatic enucleation, meaning the excision of a small pancreatic fragment around the lesion. Data will be presented according to pancreatic resection technique and comparing PJ versus PG.
+
+Preoperative study, technique, and postoperative care were standardized, and from 2008 on a clinical path based on a postoperative multimodal rehabilitation protocol (17) for CDP was implemented.
+
+Statistical study
+
+Mean and standard deviation, and median plus range were used for the descriptive analysis. A cohort comparison study was carried out for PJ versus PG. Qualitative variables were analyzed using the chi-squared and Fisher tests, whereas Student's t test or the Mann Whitney U test was used for quantitative variables. Data were analyzed with the SPSS 22.0 statistical package, and a p value of 0.05 was considered statistically significant for all comparisons.
+
+ 
+
+Results
+
+In all, 480 patients were included, and 5,893 data for all 17 variables under study were obtained; missing data amounted to 207 (3.2 %) (128 BMI and 53 DGE extent). Surgical technique was: 337 CDP (177 PJ, 155 PG, 5 excluded), 116 DP (11 urgent, 105 elective), 11 TP, 10 CP, and 6 enucleations (Fig. 1).
+
+ 
+
+
+
+ 
+
+CDP
+
+Of all 337 CDPs 5 were excluded from the study because of associated major surgery (2 total gastrectomies, 2 major hepatectomies, and 1 gunshot injury) (Table II).
+
+ 
+
+
+
+ 
+
+Diagnoses included: 119 pancreatic adenocarcinomas, 60 papillary adenocarcinomas, 34 cholangiocarcinomas, 34 chronic pancreatitis, 19 mucinous intraductal papillary neoplasms, 17 papillary adenomas, 15 neuroendocrine tumors, 8 duodenal adenocarcinomas, 5 serous cystadenomas, 3 metastases (2 from renal carcinoma, 1 from hemangiopericytoma), 2 mucinous cystadenomas, 2 cystadenocarcinomas, 14 others (3 ampullary stenoses, 3 colonic cancers, 2 biliary stenoses, 1 Castleman's disease, 1 gallbladder cancer, 1 gastric cancer, 1 lymphoma, 1 hamartoma, 1 duodenal GIST).
+
+Of all CDPs, 289 (87 %) were performed for tumors: 251 (75.6 %) malignancies, 33 (10 %) premalignant lesions, and 5 (1.5 %) benign growths; the remaining 43 were for inflammatory conditions (13 %).
+
+Complications
+
+A total of 206 patients (62 %) had at least one complication. Minor complications amounted to 121 (36.4 %) and major ones to 85 (25.5 %). Of patients with major complications, 25 (7.5 %) were III-A (22 percutaneous drains, 3 visceral artery aneurysm embolizations); 19 (5.7 %) were III-B (17 cases from reintervention and 2 radiographic procedures under general anesthesia); 18 (5.4 %) patients were IV-A (11 bleeding events with hemodynamic failure -5 GI, 5 visceral arteries, 1 hemoperitoneum- 7 reinterventions that required admission in an ICU); 12 (3.6 %) were IV-B (12 reoperated patients with organ failure).
+
+Mortality (Clavien V) was 11 patients (3.3 %), and causes included: 5 abdominal sepsis, 3 visceral artery bleeding, 1 hemoperitoneum, 1 bronchial aspiration, and 1 cardiac arrest from ventricular fibrillation. Of those who died, 4 were reoperated and 4 had pancreatic fistula.
+
+Pancreatic fistula
+
+PFs are described using two classifications: ISGFP and Clavien's. In 76 patients (22.9 %) PF was identified as per the ISGPF: A 18 (5.4 %), B 27 (8.1 %), C 31 (9.4 %). According to Clavien's classification: Grade I-II 28 (8.4 %), III 25 (7.5 %), and IV-V 25 (6.9 %). Of all 76 patients with PF, 27 (35.5 %) were re-intervened versus 14 (5.7 %) of those with no PF (p < 0.001); 4 patients died with PF (5.2 %) versus 7 (2.7 %) without PF (p = 0.27); 7 patients with PF (9.2 %) developed visceral artery bleeding versus 4 (1.5 %) without PF (p < 0.001).
+
+Delayed gastric emptying
+
+Our data from before the publication of the ISGPS classification were adapted to said system. In this process DGE was estimated to have an incidence of 100 %, but extent could only be obtained for 53 patients (15.9 %). The overall incidence of DGE was 114 (34.3 %), this being the most common complication. Its association with other abdominal complications was: 47 (64 %) PFs with DGE and 67 (35.4 %) PFs without DGE (p < 0.001); 41 (36 %) intra-abdominal abscesses with DGE and 27 (12.3 %) without DGE (p < 0.001); 27 (23.6 %) reinterventions with DGE and 14 (12.2%) without DGE (p < 0.001).
+
+Reintervention
+
+There were 41 reoperated patients (12.3 %), including readmissions within 30 days, which required 59 reinterventions (28 one, 8 two, 5 three). Causes, multiple at times, included: 26 grade-C pancreatic fistulas, 25 bleeding events, 22 intra-abdominal infections, and 1 evisceration. Reintervention-related mortality was 4 patients (9.7 %).
+
+Readmission
+
+The causes for all 30 (9 %) readmissions included: 10 digestive intolerance, 9 bleeding, 8 fever, and 3 abscesses that required percutaneous drainage.
+
+Stay
+
+Mean stay was 20 (17.14) days, with a median of (6-144) days. For patients with no complications mean stay was 10 (3.84) days; for Clavien < III 19.7 (9.03) days (p < 0.001); for Clavien ? III 36 (24.68) days (p < 0.001). For patients with PF it was 33.6 (23.51) days versus 16.2 (12.3) days without PF (p < 0.001).
+
+ 
+
+Comparison between PJ and PG
+
+The two cohorts show no significant differences in demography, operative risk or diagnosis. The procedures were performed by the same surgeons and two differences existed as regards the technique, namely the type of pancreatic anastomosis (PG vs. PJ); also, 87 (49.1 %) patients with PJ benefited from pyloric preservation. All PGs included antrectomy (Table III).
+
+ 
+
+
+
+ 
+
+The overall incidence of complications was significantly higher for PJ (71.2 %) versus PG (50.9 %) (p < 0.000). Differences were not significant for mild cases -37.2 % for PJ and 35.5 % for PG. In contrast, differences were significant for severe events -34.4 % for PJ and 15.5 % for PG (p < 0.000). This decrease in severe complications parallels the incidence of PF -29.9 % for PJ and 14.8 % for PG (p < 0.000). Differences are not only global but also regarding PF severity (Clavien ? III) -22 % for PJ and 5.8 % for PG. Regarding DGE, numbers are 45.7 % for PJ and 21.3 for PG (p < 0.000), which reflects the association between abdominal complications and DGE.
+
+Mortality was similar in both groups -3.3 % for PJ and 3.2 % for PG. The only variable where PG obtained poorer results was readmission rate within 30 days -13.5 % versus 5 % for PJ (p < 0.007).
+
+ 
+
+Distal pancreatectomy
+
+A total of 116 DPs were performed -105 scheduled vs. 11 urgent procedures (Table IV).
+
+ 
+
+
+
+ 
+
+Diagnoses included: 25 cystic tumors, 22 neuroendocrine tumors, 20 pancreatic adenocarcinomas, 17 complicated chronic pancreatitides (11 associated with total gastrectomy, 4 associated with colectomy), 3 renal carcinoma metastases, 2 solid papillary tumors, and 1 paraganglioma.
+
+Complications
+
+Only complications deriving from DP were included; 48 patients (44.7 %) had at least one complication, 31 (29.5 %) were mild and 17 (14.7 %) were severe. Of these, 11 (10.4 %) involved percutaneous draining of fistulas or intra-abdominal abscesses. Reintervention was necessary for 3 patients (1 early hemoperitoneum, 1 abscess, 1 ischemic cecal perforation). One patient died from myocardial infarction.
+
+Pancreatic fistula
+
+PF (ISGPF classification) developed in 26 patients (24.8 %) -grade A or B in 22 (21 %) and grade C in 4 (3.8 %). According to Clavien's classification 14 subjects (13.2 %) developed mild complications and 12 (11.3 %) developed severe complications. Seven (6.6 %) required percutaneous drainage, 3 (2.8 %) were reoperated upon. Pancreatic fistula accounted for half of complications.
+
+There were 13 (12.4 %) readmissions: 9 for intra-abdominal collections, 1 for visceral artery bleeding, 1 for splenic infarction, 1 for GI bleeding, and 1 for pancreatitis.
+
+A total of 11 (10.4 %) laparoscopies with conversion were carried out; 10 laparoscopic DPs were performed -3 with splenic preservation and 1 with vessel preservation. Two complications occurred- 1 PF and 1 wound infection.
+
+ 
+
+Total pancreatectomy
+
+Eleven TPs were performed -8 for adenocarcinoma, 2 for chronic pancreatitis, and 1 for a neuroendocrine tumor. Morbidity was lower as compared with CDP, and no deaths occurred (Table V).
+
+ 
+
+
+
+ 
+
+Central pancreatectomy
+
+Ten CPs were performed -3 type-II mucinous intraductal papillary tumors, 4 cystic tumors, and 3 neuroendocrine tumors. The distal pancreas was anastomosed to the jejunum on 5 occasions, and PG was used for the remaining cases. Complications amounted to 80 % -70 % were mild (Clavien I-II), all of them pancreatic fistulas of intra-abdominal infections solved with antibiotic therapy. One visceral artery bleeding event required reintervention to complete a distal pancreatectomy. No deaths occurred. Readmission for fever and intra-abdominal collections was required for 30 % of patients (Table V).
+
+ 
+
+Discussion
+
+This review of 480 pancreatectomies is to our knowledge the most extensive series reported in the literature by Spanish groups, both in total numbers and CDPs.
+
+Overall mortality in our series was 12 patients (2.5 %), with 11 (3.3 %) in 332 CDPs, which is comparable to other Spanish (12,13,18,19) as well as foreign (2,20,21) series.
+
+Hospital de Bellvitge (19) published a series of 204 CDPs for pancreatic adenocarcinoma. They used the IGSPF classification for PF, but not Clavien's classification for the other complications, which renders comparisons with our series difficult. PF rate was 10 % with PJ, better than in our series, but the fact that ductal pancreatic adenocarcinoma is usually associated with a hard pancreas and dilated Wirsung duct is to be considered, which entails a lower risk for PF. Reintervention and mortality rates were 13 % and 7 % versus 9.2 % and 1.5 % in our series.
+
+As regards CDP, the series by Figueras et al. (11)compared the results of 58 PJs and 65 PGs in a prospective, randomized study using the same technique for both types of pancreatic reconstruction as in our series. They conclude that PG significantly reduces PF incidence and severity. Severe complications for both techniques were 38.9 % versus 25.6 % in our series. If we consider only PGs, it was 63 % versus 50.9 % of our cases. The overall incidence of PF was 24.4 % [34 % for PJ and 15 % for PG (p = 0.014)]. In our series it was 22.9 % [29.9 % for PJ and 14.8 % for PG (p < 0.000)]. Regarding PF severity, their results were: 33 % grade B-C for PJ and 11 % for PG (p = 0.006). In our series we found 22 % for PJ and 12.3 % for PG (p = 0.000). Both series agree that PF incidence and severity are lower for PG.
+
+In the aforementioned paper DGE was 27.6 %, similar between PJ and PG, in contrast to our series, with an overall value of 34.3 % but with 45.7% for PJ and 21.3 % for PG (p < 0.000). Such difference may be accounted for by the association between abdominal complications and DGE, previously demonstrated by other authors (22).
+
+The second study that may compare to our series is a Belgian prospective, randomized, multicenter clinical trial on 329 CDPs (23), half PJs and half PGs, with stratification by Wirsung duct diameter (? 3 mm). Mean complications were 62 %, similar to our series, with no differences between the two reconstruction techniques. Nor were any differences in reintervention and mortality rates. Mean hospital stay was 18.5 days, with no differences between groups; in our experience, this was 26.7 days (19.93) for PJ and 13.2 days (9.22) for PG (p < 0.000).
+
+The conclusion reached by the Belgian study is that PG is more efficient than PJ for pancreatic fistula prevention and complication severity, but not for overall incidence. Differences in PJ outcome with our series may result from the different technique used duct-to-mucosa in our series, invaginated in the Belgian study. A randomized study showed that invaginated PJ was superior to duct-to-mucosa PJ (24), which may explain such differences with the results seen in the series by Figueras et al. (11) and in our series.
+
+PF holds a relationship with pancreatic texture and Wirsung duct diameter, and represents the primary cause of postoperative morbidity and mortality. In the Belgian series (26) PF increases death risk four-fold, and in the study by Figueras et al. (11) there is a HR of 7.29 for severe complications. In our experience PF is significantly associated with severe complications but not with mortality.
+
+In the prospective, randomized study by Fernández Cruz et al. (25) outcomes are better than above, but their comparison may be biased due to differences in PG technique. A meta-analysis in 2014 (26) summarizes the 7 prospective, randomized studies comparing PJ versus PG, 4 of them using the ISGPF classification. Conclusions are consistent with our findings: PG results in fewer PFs when compared to PJ (p < 0.001).
+
+Regarding quality standards, Sabater et al. (5) performed an elegant review of 6,336 CDPs for periampullary neoplasms during 2000-2010 using the ISGPS classification, and concluded that the acceptable quality limits are: < 55 % for morbidity (no specific classification is quoted), < 31 % for PF (as per the ISGPF classification; the authors also point out that 12 definitions of PF are presently used), and < 5 % for mortality.
+
+The four series mentioned above (11,19,23,25), as well as ours, meet the required quality criteria, but it should be noted that overall morbidity was not obtained using Clavien's classification. Spanish groups have reported their own standards -the first one was published in 2002 by Figueras et al. (27), who suggest that limits should be 10 % for mortality and 50 % for morbidity regarding CDP. In 2011, Fernández Cruz et al. (28) reviewed CDP complications. In 2013, Domínguez-Comesaña (12) reported on 117 pancreatectomies (61 CDPs -58 PJs-, 15 TPs and 40 DPs) with a morbidity of 59 % for CDP (PF 9.83 %, DGE 9.8 %, bleeding 16.4 %, reintervention 23 %, mortality 6.5 %). Two additional Spanish teams have reported series with similar results -Sabater et al. in 2009 (18) and Montiel et al. in 2010 (29).
+
+As for DP our series meets the quality criteria published by Sabater et al. (5), who reviewed 11 series with over 100 patients and acceptable quality limits at < 53 % for morbidity, < 31 % for PF, and < 1 % for mortality.
+
+A comparable series was reported by Goh (21), who discusses 232 open DPs during 21 years with a morbidity of 47 %, a mortality of 3 %, and a PF rate of 31 % (18 % A, 6 % B, 8 % C), similar to our results.
+
+CP is a procedure with the primary goal of pancreas preservation in benign or borderline lesions. It associates the morbidity of DP with that of pancreaticoenteric anastomosis; this explains our high morbidity rate of 80 % (Clavien ? III, 10 %), albeit with no deaths. In a French multicenter study (30) of 100 CPs with reconstruction by PG morbidity was 72 % (Clavien ? III, 18 %), with 6 % reinterventions and 3 % mortality.
+
+The limitations of our study have to do with a historical series where some mild complications may have been not counted in, since recorded complications had to be translated using international classifications. Furthermore, when comparing PJ versus PG sample volume was not estimated, although we deem the series adequate for our purposes.
+
+ 
+
+Conclusions
+
+The described CDP and PG series represents the most numerous reports by Spanish sites ever. Our findings meet the required morbidity- and mortality-related quality criteria as compared to current series and reported standards. We coincide with reported meta-analyses in that pancreatic reconstruction by PG offers better outcomes as compared with PJ (duct-to-mucosa) in terms of PF (frequency and severity), abdominal complications, severe morbidity, and hospital stay, even though mortality is not improved. For DP our findings are consistent with the reported standards, although a laparoscopic approach will likely improve them. Regarding CP, we agree with other teams that, being a conservative procedure to preserve pancreatic function, its mortality is high and the technique should reserve for younger patients with a low surgical risk.
+
+Artículo 9
+
+Validity and reliability of the minimum basic data set in estimating nosocomial acute gastroenteritis caused by rotavirus
+ 
+
+ABSTRACT
+
+Introduction: Rotavirus is the principal cause of nosocomial acute gastroenteritis (NAGE) under 5 years of age. The objective is to evaluate the validity and reliability of the minimum basic data set (MBDS) in estimating the NAGE caused by rotavirus (NAGER) and to analyze any changes during the three years that the Rotarix® and Rotateq® vaccines were used in Spain. 
+Material and methods: A descriptive, retrospective study was carried out in the University Hospital of Guadalajara (UHG) (Spain) between 2003-2009 using the MBDS, positive microbiological results for rotavirus (PMRs), and medical histories. Three methods of estimation were used: 1) An ICD-9-CM code 008.61 in the secondary diagnosis fields (DIAG2) of MBDS; 2) method 1 and/or PMRs with a current or recent hospitalization; and 3) the reference method or method 2 contrasted with patient medical histories. The validity of methods 1 and 2 was determined -sensitivity, specificity, predictive values and likelihood ratios (LRs)-, along with their agreement with method 3 (Kappa coefficient). In addition, the incidence rate ratio between the NAGER rate in 2007-2009 (commercialization period of both vaccines) was calculated with respect to 2003-2005 (pre-commercialization period). 
+Results: Method 1 identified 65 records with a DIAG2 of 008.61. Method 2 found 62 probable cases, and the reference method, 49 true cases. The sensitivity of the MBDS was 67 %, the positive predictive value was 51 %, and both negative LR (LR-) and reliability were moderate (LR- 0.33, Kappa coefficient 0.58). During 2007-2009, the NARGE decreased by 5 cases per 103 hospitalizations by 9 per 104 days of hospitalization. Method 2 overestimated both the decline in incidence by 2 per 103 hospitalizations and the decreased risk per day of stay by 10 %. The MBDS found no differences between the two three-year periods, but, like method 2, showed an excellent level of diagnostic evidence (LR+ 67). 
+Conclusion: The MBDS taken together with microbiological results, is more exact, safer and more reliable than the MBDS alone in estimating NAGER; and more useful in ruling out it. Nevertheless, the MBDS alone may be used to estimate and compare such disease in contexts with different prevalences.
+
+Key words: Rotavirus infections. Rotavirus vaccines. Gastroenteritis. Hospital infections. Medical registries. Spain.
+
+
+
+Abreviations 
+AGE: Acute gastroenteritis; 
+NAGE: Nosocomial acute gastroenteritis; 
+NAGER: Nosocomial acute gastroenteritis caused by rotavirus; 
+MBDS: Minimum basic data set; 
+DIAG2: Secondary diagnosis fields; 
+DIAG1: Principal diagnosis fields; 
+UHG: Hospital Universitario de Guadalajara (Spain); 
+PMRs: positive microbiology results for rotavirus; 
+95 % CI: 95 % confidence interval; 
+PPV: Positive predictive value; 
+NPV: Negative predictive value; 
+IR: Incidence rate; 
+LR: Likelihood ratio; 
+IRR: Incidence rate ratio; 
+IQR: Interquartile range.
+
+ 
+
+Introduction
+
+Nosocomial acute gastroenteritis (NAGE) caused by rotavirus (NAGER) occurs in 5 % in hospitalized children, leading to increased hospital stays and the use of extra hospital resources (1-3). Rotavirus is the main cause of NAGE in children under the age of 5 years (31-87 %) (4-7), with 70 % of cases occurring in children under 1 year of age (8). The seasonal pattern coincides with the winter peak of other pediatric viral infections (4), although this period is extended with respect to that of community-acquired rotavirus, starting in the autumn and finishing in the early spring (6).
+
+NAGER becomes full blown after a 3-day incubation period (3). Twenty to forty percent of all cases are asymptomatic or subclinical (6), which, together with the great stability of rotavirus, contributes to contagion and the low efficacy of control measures (9). In Europe, nosocomial cases constitute 14-51 % of all rotavirus infections in children under 5, with an incidence of 0.1 to 2.8 per every 103 hospital admissions (newborns: 4-7.3 per 103). The additional costs for treating the infection can range from 367 to 1,837 euros per case (4-6,10-12). The differences in incidence between countries reflect the heterogeneity of studies conducted on this disease, making comparisons difficult (10,11,13,14). The same occurs between Spanish regions. Few studies have been carried out on NAGER in Spain (3,4,6,8). In Europe as a whole, the average incidence rate is around 4.6 per 104 days of hospitalization (range: 0.1-6.8 per 104), which lengthens the average hospital stay between 4 and 12 days (13). The attack rate of symptomatic rotavirus infection can reach up to 56 % in outbreak periods (14,15).
+
+The Rotarix® and Rotateq® vaccines were first marketed in Spain in July, 2006, and February, 2007, respectively (4). At the time, they were not included in the Spanish vaccination schedule (16), nor were they added in 2013 (17) as they were not considered cost effective (18). However, given the morbidity of the disease and the increased burden on the healthcare system, vaccination is generally recommended (19). The new vaccines are considered safe, with a 5-10 times lower risk of intussusception (20) than that associated with Rotashield® in the past. With a universal vaccination program and assuming 90 % coverage, it is estimated that up to 58 % of NAGER cases in Spain could be avoided over a 5-year period (21).
+
+The recording of rotavirus in hospital information systems has been described as highly deficient (5), partly due to the elevated incidence of asymptomatic cases of NAGER (22). Furthermore, the attack rate of the disease after discharge may be as high as 16 %, and if these cases are mild or asymptomatic, they generally remain unreported. Nevertheless, the minimum basic data set (MBDS) and other similar tools have been used to assess the incidence of NAGER (8,10). It is uncertain whether the secondary diagnoses fields (DIAG2) in the MBDS constitute a valid method for identifying the disease, as they give no information of the time between hospitalization and onset; moreover, some microbiological diagnostic results are administered after hospital discharge. In a similar vein, the MBDS contains cases categorized as the principal diagnosis field (DIAG1), which in reality correspond to infections acquired during a prior hospitalization. Likewise, the consistency of DIAG2 in always giving equivalent results (diagnostic agreement) has not been determined. Although the code system is well-established, variability still arises due to the different experience of those doing the actual coding and how the clinicians filled out medical histories at discharge.
+
+The main objective of this study is to assess the validity and reliability of the DIAG2 of the MBDS in estimating NAGER. Also, to analyze any possible changes in incidence during the first three-year period that the new vaccines against rotavirus were commercially available in Spain.
+
+ 
+
+Material and methods
+
+This is a descriptive, retrospective study carried out at the Hospital Universitario de Guadalajara (UHG, Spain) between 2003 and 2009. Three data sources were used:
+
+1. The MBDS of the UHG: The mandatory registry for hospital discharges for any reason in the pediatric and neonatal wards.
+
+2. The computerized Modulab® registry of the Microbiology laboratory of the UHG: Positive microbiology results for rotavirus (PMRs) found with a rapid and simultaneous detection immunochromatographic kit for rotavirus and adenovirus (VIKIA Rota-Adeno®, bioMérieux). This method has a reproducibility of 100 %, a sensitivity of 92 % (95 % confidence interval (95 % CI) 84-99 %), and a specificity of 91 % (95% CI 78-100 %). Its positive predictive value (PPV) is 96 % (90-100 %) whereas its negative predictive value (NPV) is 83 % (67-98 %).
+
+3. Medical histories from the central archives of the UHG, of the probable and possible nosocomial cases as defined below in methods 2 and 3, respectively.
+
+This project was approved by the hospital's Ethics Committee for Clinical Research of Guadalajara (Spain).
+
+Definition of the variable of interest and the estimation methods
+
+NAGER was defined as "the development of symptoms 72 hours after hospital admission and up to 72 hours after discharge" (3). The estimation methods were defined according to the following data selection criteria:
+
+1. Method 1: Registry entries with a code of The International Classification of Diseases, Ninth Revision, Clinical Modification (ICD9-CM) 008.61 (rotavirus) in any of the DIAG2 of the MBDS, where the DIAG1 field was something other than 558.9 (unspecified AGE), 787.03 (vomiting), or 787.91 (diarrhea).
+
+2. Method 2: Method 1 combined with PMRs coinciding with a current or recent hospitalization (within the last 3 days) according to the MBDS. The PMRs were joined with the MBDS, using the medical history numbers of patients as the crossover tool. We searched for codes of 008.61, 558.9, 787.03, 787.91, or 780.06 (fever) in the DIAG1 or the DIAG2 coinciding with a PMR.
+
+Probable nosocomial cases were defined as episodes (registry entries) in the MBDS with:
+
+- A DIAG1 other than 008.61 and a DIAG2 of 008.61 without PMR.
+
+- A DIAG1 other than 008.61 and a DIAG2 of 008.61, 558.9, 787.03, or 787.91 with PMR 72 hours after hospitalization or within the first 72 hours after discharge. Also, as an exception, newborns with PMR occurring ? 72 hours after hospitalization.
+
+- A DIAG1 of 008.61, 558.9, 787.03, or 787.91 and previous hospitalization with a DIAG1 other than 008.61 and a discharge within 72 hours preceding the second admission, besides a PMR from 72 hours after the first hospitalization or during the second.
+
+3. Method 3 (reference or "clinical method"): Method 2 contrasted with patient medical histories. To find true nosocomial cases, we reviewed not only the medical histories of those cases categorized by method 2 as probable nosocomial cases, but also those of the possible nosocomial cases, that is, registries with a DIAG1 of 008.61, 558.9, 787.3, or 787.91 and a prior hospitalization with a DIAG1 other than 008.61 without PMRs. A data collection sheet based on one used in a prior study on NAGER (6) was elaborated to this end.
+
+Cases that were ruled out as being true nosocomial cases were categorized as false nosocomial cases or as community-acquired cases, both of which would be false positives according to method 2.
+
+Statistical analysis
+
+Frequency indicators were calculated for NAGER cases in the pediatric and neonatal wards, globally and by department, by age group, by year of study period, and by the two three-year periods (2003-2005 and 2007-2009), with their corresponding 95 % CI, with each method described. Prior to calculating incidence rates (IRs), lengths of hospital stays were previously estimated.
+
+We then determined the sensitivity and specificity (internal validity) for methods 1 and 2, along with external validity: The PPVs and NPVs (performance or safety) and positive and negative LRs (LHR+ and LHR-) (plausibility). In addition, Chamberlain's percentage of positive agreement (% PA) was calculated (23). We lastly estimated the kappa index values to determine the agreement of methods 1 and 2 with regard to the clinical method, using the Altman scale (24) in interpreting the data thus obtained.
+
+The seasonal pattern was described by means of the monthly distribution of the number of cases. To compare the prevalence of the disease among different pediatric age groups, three-year study periods, and estimation methods, the chi-square test was used. We compared the IR of NAGER in the three-year study period when Rotarix® and RotaTeq® were simultaneously available in Spain (2007-2009) with the previous three-year period (2003-2005), by calculating the incidence rate ratios (IRRs) with each method. The year 2006 was considered to be a transitional period, as only Rotarix® was then commercially available in Spain.
+
+All analyses were carried out with SPSS 15.0 software and the Epi InfoTM 7 application for Windows. A p value of 0.05 indicated statistical significance.
+
+ 
+
+Results
+
+Between 2003 and 2009, a total of 9,602 children were hospitalized for any reason in the UHG, 21 % in the neonatal ward. A DIAG1 of 008.61 appeared for 381 of the children hospitalized, with another 65 admissions listing it as a DIAG2 (Fig. 1). According to method 1, seven of every 103 children hospitalized at the UHG in the 2003-2009 period had acquired NAGER, with a prevalence 6 ‰ higher in neonatal patients than in pediatric patients (Table I).
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+No registry entries coded as 780.06 appeared as a DIAG1 or DIAG2 concomitantly with PMR. Two of the 65 entries in the MBDS with a DIAG2 of 008.61, both for pediatric admissions, had no PMRs. We found 37 registry entries with a DIAG1 other than 008.61 with PMR 72 hours after hospitalization, 36 with a DIAG2 of 008.61, and 1 with a DIAG2 of 558.9, belonging to a pediatric patient (Fig. 1). Of the 36 patients with a DIAG2 of 008.61, 2 of the 23 entries coming from the pediatric ward corresponded to the same patient, but they were episodes from different years. In addition, we found 5 entries with a DIAG2 of 008.61 that corresponded to newborns with PMRs obtained ? 72 hours after hospitalization. Furthermore, there were 16 entries with a DIAG1 of 008.61 and 2 with a DIAG1 of 558.9, all with PMRs and a prior hospitalization for a DIAG1 other than rotavirus, who had been discharged in the previous 72 hours, all from the pediatric ward (Fig. 1). The final tally of probable nosocomial cases was 62, all of which were under 5 years of age and 18 of which were neonatal patients. According to method 2, seven of every 103 children hospitalized between 2003 and 2009 had acquired NAGER, with a prevalence a 3 ‰ higher in neonatal patients (Table I).
+
+We identified 11 entries with a DIAG1 of 008.61, 558.9, 787.3, or 787.91 who had been discharged within 72 hours prior to being readmitted, but without PMRs; these were classified as possible nosocomial cases and were added to the 62 probable nosocomial cases (Fig. 1). In total, 73 medical records were reviewed. The 2 probable nosocomial cases with a DIAG2 of 008.61 and no PMR turned out to be coding errors and were reclassified as false nosocomial cases. Of the 37 entries in the MBDS with a DIAG1 other than 008.61 and PMRs 72 hours after hospitalization, 6 turned out to have been community-acquired and 31, including all the neonatal cases, were true nosocomial cases. The 5 newborns with PMRs obtained ? 72 hours after hospitalization were also true nosocomial cases.
+
+Of the 18 hospitalizations for a DIAG1 of 008.61 or 558.9, with PMRs and a prior hospitalization for a DIAG1 other than rotavirus, and with a discharge in the previous 72 hours, 5 turned out to have been community-acquired (of those, the 2 categorized as 558.9) while 13 were true nosocomial cases. The 11 cases thought to be possible nosocomial cases all had medical histories that were incompatible with NAGER and were thus classified as false nosocomial cases. We were thus able to categorize 67.1 % (n = 49) of the medical histories reviewed as true nosocomial cases (Fig. 1). Of these, 36.7% (n = 18) occurred in neonates (Table I). Overall, 51 % of these true nosocomial cases occurred in male patients, 90 % (n = 44) occurred under the age of 2, a 35 % (n = 17) occurred in newborns; and 30 % (n = 15, all pediatric patients) had been discharged within the previous 72 hours. According to the reference method, 5 of every 103 children hospitalized in the 2003-2009 period had contracted NAGER in hospital, with a 5 ‰ higher prevalence in neonatal patients (Table I) and a post-discharge attack rate of 2 ‰. A statistically significant difference was observed between the calculation method used and the prevalence of NAGER (p = 0.001).
+
+The sensitivity and PPV of method 1 in detecting NAGER were 67 % and 51 %, respectively, while for method 2 they were 100 % and 79 %, respectively. The LR+ and LR- of method 1 were 67 and 0.33, respectively, in contrast with 100 and 0 for method 2. The degree of positive agreement with respect to the reference method was 52 % greater for method 2 (Table II). The reliability of the MBDS was greater when contrasted with the microbiology results (kappa indices of 0.58 vs. 0.88) (Table II).
+
+ 
+
+
+
+ 
+
+For neonatal patients, the mean age of children with NAGER was 0 days (minimum = 0, maximum = 29) while for pediatric patients it was 10 months (minimum = 1, maximum = 89). The cumulative percentage in children under 1 year of age was 75.5 %, with a greater incidence between 7 and 11 months (Fig. 2). The illness was significantly associated with age, with children under 2 years of age having a 9-fold risk of infection by rotavirus compared to children being 2 and over (p < 0.001). The main reason for hospitalization in neonatal patients was "preterm or prematurely born newborn" (73 %) while for pediatric patients it was for bronchiolitis/bronchospasms (32 %) and lower respiratory tract infections (19 %).
+
+ 
+
+
+
+ 
+
+Cases of NAGER followed a seasonal pattern similar to that of AGE caused by community-acquired rotavirus, with higher peaks in the second half of autumn and the first half of winter (November-January), when a little over half of all the annual cases occurred, along with other minor peaks in spring (Fig. 3). The greatest amount of cases occurred in November. There were also summer outbreaks in 2005 and 2007.
+
+ 
+
+
+
+ 
+
+Between 2003 and 2009, the mean number of NAGER cases was 4.14 per 103 hospitalizations per year (Table I) The incidence rate was similar when calculated with method 2, and was much higher when calculated with method 1. The difference between methods 1 and 2 with respect to the reference method was found mostly in pediatric cases, where the two methods estimated 2 and 1 cases more per 103 hospitalizations/year, respectively, than the reference method (Table I). By the reference method, incidence reached 2 maximum peaks, one in 2004 and another lesser peak in 2007. Incidence decreased in 2008 and again, albeit not significantly, in 2009 (Fig. 4). The annual incidence distribution reflects a similarity among the different methods for assessing seasonal evolution (Fig. 4). The mean hospital stay for all hospitalizations in 2003-2009 was 4 days (interquartile range [IQR]= 3.7-4.3): Three (2.5-3.4) for pediatric cases and 7.9 (7.3-8.5) for neonates. For patients with NAGER, it was 9 days (IQR = 5-20): 7 (4-9) for pediatric cases and 25 (16-37.3) for neonates. In premature infants, it was 29 days (IQR = 20-39; minimum = 15, maximum = 44).
+
+ 
+
+
+
+ 
+
+In the period between 2007 and 2009 there was an overall decrease of 5 cases for every 103 hospitalizations (approx. 2.8 ‰ less frequent) with respect to the 2003-2005 period (p < 0.001). When measured with method 2, this decrease was even greater, at 3.6 ‰ (p < 0.001) (Table III). In contrast, no significant differences between the two three-year periods were observed when calculated with method 1 (p = 0.33). When the reference method was used, the IR went down by 9 cases for every 104 days of hospital stay (IRR2007-2009/2003-2005 = 0.55; 95 % CI 0.54-0.56; p < 0.001). The IRR between the two three-year periods with method 2 was 0.45 (95 % CI 0.44-0.46); when measured with the MBDS, it was 1.08 (95 % CI 1.06-1.10) (Table III).
+
+ 
+
+
+
+ 
+
+Discussion
+
+The DIAG2 taken from the MBDS detected 67 % of NAGER cases during the 2003-2009 period, with a safety of 51 % and a moderate power of agreement with respect to the clinical method. In contrast, the MBDS taken together with microbiology results produced maximum detection, with a 28 % higher safety and very good agreement. Although both methods showed an excellent level of diagnostic evidence (LR+ > 10), method 1 was only moderately effective for ruling out the illness (LR- = 0.33) when it was not detected. Throughout the study period, the mean incidence of NAGER showed high variability, with a range of 2.7-7.8 cases per 103 hospitalizations/year. This was also true for the mean IR, which ranged from 7.0 to 77.7 cases for every 104 days of hospital. The disease was 56 % more frequent in neonatal than in pediatric patients. On average, the hospital stay for children who contracted NAGER in the hospital was 4 days longer in pediatric cases and 17 days more for neonates. In the 2007-2009 period, the illness was almost 2 times less prevalent compared to 2003-2005, with the risk of contracting the illness per day of hospital stay decreasing almost by half. While in the three-year period in which privately funded vaccines were available, the number of cases/year showed a decrease of 55 %, universal vaccination programs in Europe in the same time period showed a prevention of up to 72 % of cases/year (25).
+
+The selected study period was selected for convenience, to evaluate the efficacy of vaccines before 2010, when the Spanish Agency for Medicines and Health Products interrupted the supply of Rotarix® and Rotateq® because of the detection of porcine circovirus in March and June of that year, respectively (18). Maximum vaccine coverage, despite the fact that the vaccines were not subsidized by the Spanish healthcare system, would have thus occurred when the drugs were first made available, from 2007 to 2009, a time when pediatricians were recommending the health benefits of vaccination during well child visits, thereby promoting their commercialization. Although in November, 2010, Rotateq® was re-released into the market, Rotarix® is still unavailable in Spain (17). We then decided to compare the 2007-2009 period with an immediately preceding period of equal length, leaving out the year 2006, as explained above in the methods section.
+
+Overall, the MBDS per se overestimated the incidence by 3 cases for every 103 hospitalizations and the mean IR by 6 cases for every 104 days of hospital stay. Besides, it did not detect the decrease during the 2007-2009 period. Together with microbiology results, the MBDS did indicate this decrease, although it overestimated it by 2 cases per 103, as well as the decrease in risk per day of hospital stay by 10 %. It is difficult to compare the incidence found in other Spanish studies due to the heterogeneity in the designs and methodologies used (3,4,6,8). In this context, the variability of the assessment methods would be an important source of error (26). Furthermore, the majority of previous studies have been retrospective, which supposes a lack of follow-up in the 72 hours after discharge and the exclusion of mild or asymptomatic cases (4,8,10). Previous studies based solely on hospital discharge data with the specific code of CIE-9-MC 008.61 have been shown to underestimate the real burden of the disease (4). To evaluate the validity and reliability of the MBDS, we took the patients' medical histories as a reference, as they contain more complete information on patient hospitalizations and, together with the PMRs, they offer more accurate data. The fact is, as mentioned above, that almost a third of identified as true nosocomial cases had been discharged less than 72 hours before being readmitted with NAGER as their DIAG1; that is, the disease became symptomatic after the first discharge.
+
+The difficulty in comparing different studies in this field is an even greater challenge in the European context, with discrepancies among public health systems and different epidemiological patterns (5,10). The changes observed between the two three-year periods under study, as well as any comparisons made between national and international results must be taken with caution given the low number of cases of NAGER and the low statistical power of the sample.
+
+The UHG was an ideal place to carry out this study because its microbiology lab is a place of reference throughout the region. Feces sample collection to check for rotavirus in children is routinely carried out if there is any suspicion of AGE whenever any symptoms of the disease are observed. Because of this, the date of the microbiology results was taken to be the start of symptomatic AGE in order to estimate probable nosocomial cases, possible nosocomial cases, and true nosocomial cases (Fig. 1). For those entries with PMRs within the first 72 hours after hospitalization, a community origin was assigned. Nevertheless, a PMR after this period did not necessarily indicate a nosocomial origin since there is sometimes a time lapse between the start of symptoms and a PMR. These cases were thus defined as probable nosocomial cases. Those in which a PMR was obtained within 72 hours of discharge were considered to be nosocomial, but even after this period, we could not entirely rule out a nosocomial origin since in cases with mild symptoms, outpatient feces sampling may be delayed or not performed. In order not to lose these cases, we reviewed all medical histories with PMRs obtained up to one month after hospital discharge with a DIAG2 of 00.861, and/or 558.9, and/or 787.03, and/or 787.91. As mentioned above, we identified 37 cases with PMRs on the third day after discharge, 36 with a DIAG2 of 008.61 and one with a DIAG2 of 558.9 (Fig. 1). In one month follow-up of hospitalizations due to rotavirus, readmitted patients usually are within three days after the initial discharge (27). Still, this would not have identified mild or asymptomatic cases after discharge with no DIAG2 entries of 558.9, and/or 787.03, and/or 787.91, and/or without microbiology sample collection. This has prompted a call to include in future a new label of "present on admission" (POA), which would accompany each diagnostic code to differentiate diagnoses made at the time of hospital admission (POA = Y, yes) from those appearing during the actual hospital stay (POA = N, no).
+
+The mean incidence of NAGER calculated through the DIAG2, namely 6.90 per 103, is higher than the national average (obtained by the same means) of 4.50 per 103 (8). Although the reliability of the MBDS is only moderate, this comparison reveals a high incidence of NAGER in the UHG. Moreover, the mean IR of 11.07 per 104 (IR: 7-77.72) obtained with the clinical method is double that described for Western Europe, which is 4.6 per 104 (range: 0-6.8 per 104) (13). Indeed, the mean IR reported for Europe as a whole is similar to those reported in prospective studies (1,11). In this context, the incidence observed in the UHG of 4.14 per 103 is quite low if we compare it with prospective studies carried out in Spain (3,6,28). This difference may be due to the aforementioned loss of mild or asymptomatic cases, especially in the absence of follow-up period, as well as to the loss of symptomatic cases that remain unclassified as such in the MBDS because they were not properly entered in the medical histories or for lack of microbiology results. This could be a possible source of selection bias in our study. Even in prospective studies which only record results of symptomatic infection, the observed prevalence is higher than in our study (3). Taking these considerations into account, the main limitation of this study is the type of information in the MBDS. Indeed, it has been estimated that post-discharge appearance of NAGER occurs in up to 11 cases for every 103 hospitalizations (29). Even so, it would be necessary to perform feces analyses both before and after discharge to identify asymptomatic cases (30).
+
+In addition to all the aforementioned, and with respect to the difficulty in making comparisons, it must be remembered that the incidence is influenced by the seasonal period followed (epidemic season vs. complete year) and the age range of the patients (14). Surveillance studies have determined a combined incidence of NAGER that can reach up to 8.1 cases during epidemic months (95 % CI 6.4-9.9) (31).
+
+The use of medical histories as a reference also presents several limitations such as interviewer bias. The form in which each clinic records the beginning and the course of digestive symptoms in each patient's medical history may differ depending on his or her particular interest the pathology observed or the severity of its evolution. For this reason, we chose to also review the nursing records, in which the number and consistency of stools is recorded with greater accuracy, as is the presence of vomiting. Further, as the medical records were all reviewed by the same person, interobserver agreement could thus not be calculated, which could produce observer bias (erroneous differential classification of disease). We attempted to minimize this by elaborating a systemized data collection form. But this same error could occur in the process of codification, depending on the experience of those applying the disease codes.
+
+To date, no studies have specifically evaluated the efficacy of the MBDS as a surveillance system for NAGER, although it has been used to monitor other nosocomial infections such as surgical site infections, catheter-associated urinary tract infection, central line-associated bloodstream infection, ventilator-associated pneumonia/events, postprocedure pneumonia, as well as infections caused by bacteria associated with hospital health care (methicillin-resistant Staphylococcus aureus and Clostridium difficile) (32). It has also been used to determine the prevalence of nosocomial infections (33) and its agreement with other data sources in detecting cancer (34), emergency pathologies (35), postoperative risk factors and secondary effects (36), cerebrovascular trauma (37), and surgical mortality (38) have been assessed. As in our study, other researchers have found a moderate sensitivity and high specificity of the MBDS in detecting Clostridium difficile and surgical site infection (32). Due to the low incidence of hospital infection, the PPV of registries like the MBDS are probably low.
+
+This is also the first published analysis of the effects of the commercialization of both vaccines against rotavirus on NAGER incidence in Spain. In countries with a nation-wide immunization schedule, the indirect benefits on the non-vaccinated public have previously been demonstrated (39,40), albeit not at the intrahospital level. Nevertheless, the decrease observed in the three-year study period after the vaccines had been made available may be due to herd immunity as well as to the "hand washing program" promoted by the UHG since 2008, a strategy that has proven effective in lowering the communicability of the virus within the hospital, which is found on the hands of 77 % of hospital health workers (5,41). Still, only 37 % of NAGER cases that we identified had actually been isolated, all of them in neonatal patients. Other researchers have estimated that the disease is isolated only in 50 % of patients (14).
+
+This study has analyzed for the first time the validity and reliability of the DIAG2 of the MBDS in estimating NAGER. The clinical method ruled out 25 % of the cases categorized by this system. The MBDS, taken together with microbiology results, equivalent to the Microbiology Information System, is more exact, safer and more reliable than the MBDS alone in estimating NAGER; and better at ruling out it. Nevertheless, because it offers a high level of diagnostic evidence, method 1 may be used to estimate nosocomial infection in contexts with various prevalences, always with caution. In this sense, future studies with larger sample sizes should be undertaken to bolster these findings. We should raise awareness among healthcare professionals about the importance of proper recording of clinical variables to improve the coding in Healthcare Information Systems. If we cannot validly and efficiently assess the quality of care, it will be impossible to design strategies to improve monitoring and control of nosocomial infections. The implementation of a specific code to register this pathology in the MBSD would be an important step forward in this regard.
+
+Artículo 10
+
+New trends in the management of diverticulitis and colonic diverticular disease
+
+
+ABSTRACT
+
+Colonic diverticular disease is a chronic disorder presenting with a variety of abdominal symptoms and recurrent episodes of acute diverticulitis. It is close linked to age so its prevalence has risen notably during the last decades in western countries, increasing costs related to medical attention. Recently, several works have provided evidence to a series of measures that could improve the outcomes as well as reduce expenses associated to this process. 
+The aim of the present review is to expose a view of the new trends in the management of diverticulitis and colonic diverticular disease, based on the highest clinical evidence available.
+
+Key words: Primary anastomosis. Colonic diverticular disease. Acute diverticulitis. Laparoscopic peritoneal lavage. Routine colonic evaluation.
+
+
+Abbreviations 
+AD: Acute diverticulitis; 
+C-AD: Complicated acute diverticulitis; 
+CT-scan: Computed tomography scan; 
+HP: Hartmann's procedure; 
+NPV: Negative predictive value; 
+PPV: Positive predictive value; 
+RCT: Randomized clinical trial; 
+Sn: Sensitivity; 
+Sp: Specificity; 
+UC-AD: Uncomplicated acute diverticulitis.
+
+ 
+
+Introduction
+
+Colonic diverticular disease is a chronic entity with a wide variety of abdominal symptoms that eventually may course with recurrent episodes of acute diverticulitis (AD). The prevalence of colonic diverticulosis is not influenced by genre and increases with age. In this sense, the rise of life expectancy explains the accumulation of cases in Western countries. It is estimated that the prevalence of this disease can exceed 60 % in subjects above 80 years old, of which, up to 25 % will suffer at least one episode of AD during their lifetime (1-3). The classic therapeutic algorithm is based on the Hinchey classification, the use of antibiotics and the Hartmann's procedure (HP) during the acute phase; and elective colectomy in recurrent cases (Fig. 1). In contrast, a large number of papers published in the last decade have led to open new horizons in the management of this entity.
+
+ 
+
+
+
+ 
+
+The aim of the present review is to expose an overview, based on the highest evidence available, of new trends in the management of diverticulitis and colonic diverticular disease.
+
+ 
+
+Material and methods
+
+A bibliographic search was conducted using "diverticulitis" as search term in PubMed.gov (NLM). The search was limited to the last five years (from December 2014) and no other limits were imposed. At first, references not related to colonic diverticulosis, as well as those that offered no modification to the example of classic algorithm (Fig. 1) were excluded. In a second time, we selected works with level of evidence 1 or 2, according to the criteria of the Oxford Centre for the Evidence-Based Medicine (OCEBM) (Table I), and classified them within the different sections of this manuscript. These references formed the core of each section.
+
+ 
+
+
+
+ 
+
+Since surgical approach should not influence therapeutic indication and there is plenty of evidence in the literature that laparoscopic surgery in experienced hands is comparable or even superior to open surgery in almost any scenario, the use of laparoscopy was not an objective of the present review.
+
+ 
+
+Results
+
+Bibliographic search diagram is shown in figure 2. In the following paragraphs, the findings and conclusions of papers exposing new trends in the management of AD and colonic diverticular disease are discussed.
+
+ 
+
+
+
+ 
+
+Diagnostic scores and severity scales
+
+The diagnosis of diverticulosis can be established by barium enema, colonoscopy or even computed tomography (CT-scan) (4); however, a majority of patients will be diagnosed with diverticular disease during the first episode of AD. In the diagnosis of AD, clinical signs and symptoms play a key role on the suspicion and request of complementary tests. In this regard, AD is a condition with a high rate of clinical misdiagnosis (between 34 % and 68 %) what has motivated the development of at least two diagnostic scores based on clinical parameters (5,6).
+
+Of these, the first one was published in 2010 by Laméris et al. who prospectively analyzed 1,021 patients with abdominal pain, identifying by logistic regression, three items associated with the diagnosis of AD (pain with tenderness in the left lower quadrant, absence of vomiting and C-reactive protein ? 50 mg/dL) (6). Likewise, based on data from the clinical history, physical examination and laboratory tests; Andeweg et al. identified seven variables (age ? 50 years, previous episode of AD, increased pain with movement, tenderness in the left lower abdomen, absence of vomiting and C-Reactive protein ? 50 mg/dL) from which constructed a diagnostic nomogram. According to these authors, this tool could discriminate up to 86 % of patients with AD, a figure similar to ultrasound (90 %) (5). Both diagnostic scores were externally validated in an independent cohort by Kiewiet et al., obtaining values of sensitivity (Sn), specificity (Sp), positive predictive value (PPV) and negative predictive value (NPV) as shown below: a) Laméris et al. (6) (PPV: 81 %-100 %; NPV: 47 %-66 %; Sn 24-37 %; Sp: 93 %-100 %); and b) Andaweg et al. (5) (PPV: 89 %-92 %; NPV: 47 %-76 %; Sn: 14-48 %; Sp: 98 %-99 %).
+
+However, commonly used diagnostic radiological imaging presents better diagnostic performance than these clinical tools. To this respect, although ultrasound has demonstrated good (Sn) and (Sp) (92 % and 90 %, respectively), at present, CT-scan shows better values (94 % and 99 %, respectively) and is considered the gold standard for the diagnosis of AD (7,8).
+
+Given the diagnostic performance of such scores, these would be particularly useful when they are positive. Their authors argue that the use of these scores might reduce the number of complementary tests requested for AD. However, from our point of view, shared by other authors (9), is precisely in patients with positive test in whom radiological imaging would be more useful since it could determinate the severity of the AD, an essential factor in the therapeutic approach.
+
+Finally, it has been proposed several alternatives to the Hinchey classification (10), some of which might even be useful to select patients candidates for outpatient treatment (11). Nonetheless, to date, this scale described for the first time in 1978 (12), subsequently modified by Wasvary et al. in 1999 (13), and adapted to the findings of CT-scan in recent years (4) continues to be the most widely used.
+
+Uncomplicated acute diverticulitis: Antibiotic therapy and outpatient treatment
+
+Traditionally, treatment of uncomplicated AD (UC-AD) has been based on intravenous antibiotics and digestive rest. However, in recent years, various authors have considered the possibility of manage this condition through treatment with oral antibiotic and liquid diet from the beginning (14-20).
+
+Biondo et al. (18) conducted a randomized clinical trial (RCT) in which 132 patients diagnosed with UC-AD received the same scheme of oral or intravenous antibiotic. After 60 days of follow-up, no difference in quality of life or rate of treatment failure (4.5 % vs. 6.1 %, respectively) was observed. In contrast, the average cost of inpatient treatment was 1,124 € higher than in the ambulatory group. These results are consistent, both in terms of safety and effectiveness (14,15,17,19,21), as well as efficiency (14,15,21), with other lower evidence studies previously published.
+
+Unlu et al. (17) reached the same conclusion after a re-trospective analysis of 312 patients with a median follow-up of 48 months. These authors highlight the importance of a rigorous analgesic control, since according to their findings; the main reason of hospital readmission is the persistence of pain without other type of complication. The results of these and other studies have been grouped and analyzed in a systematic review that reported up to 97 % of success with outpatient treatment for UC-AD (22).
+
+Another new trend in the management of UC-AD questions the need for antibiotic administration. Several publications have suggested this therapeutic approach (23-25). To date, the highest evidence to this respect has been published by Chabok et al. (26). These authors conducted a RCT involving 623 patients with UC-AD treated with or without antibiotic, concluding that there were no significant differences regarding complications of the inflammatory process (1 % vs. 1.9 %), recurrence (15.8 % vs. 16.2 %), need for resection (1.6 % vs. 2.3 %) and hospital stay (2.9 vs. 2.9 days), after one year of follow-up. Nevertheless, the rate of complication in the group without antibiotic could double that of those patients who were treated with antimicrobials (1.9 % vs. 1 %) (26). The sample size necessary to discriminate this difference as statistically significant is estimated on 5,000 patients approximately, hardly attainable in an RCT of these characteristics. Additionally, the clinical significance of that difference might not support the routine use of antibiotics in this scenario.
+
+It should be highlighted that the success of these measures, which could reduce the healthcare costs associated with the process up to 60 % (21), is strongly influenced by the selection of patients. The majority of works considered as factors of exclusion for outpatient treatment or antibiotics-free: Renal or cardiac failure, diabetes mellitus, immunosuppression states or the absence of almost immediate response to the first dose of analgesic and antibiotic.
+
+In brief, it could be concluded that outpatient treatment of UC-AD may be safe and effective in selected patients. However, further studies are necessary before leaving the routinary use of antibiotics in this entity.
+
+Peritoneal laparoscopic lavage
+
+The treatment of complicated AD (C-AD) has evolved over the years. Currently, there is consensus that C-AD Hinchey I should be initially treated with intravenous antibiotic, while Hinchey II can be managed safely and successfully by percutaneous drainage in those centers with availability (27-29). The controversy is generated in cases with Hinchey II and large abscesses or not accessible percutaneously, and Hinchey III/IV. In C-AD Hinchey IV almost all authors agree on the need to resect the affected colon, inflamed and perforated. However, regarding the surgical technique, some surgeons defend the creation of primary anastomosis and others of HP, discussion that will be objective in the next section.
+
+In the remaining cases, i.e. C-AD Hinchey II with gas or inaccessible percutaneously and Hinchey III, several authors have proposed the laparoscopic lavage and drainage from the peritoneal cavity as an alternative to the HP, even in elderly patients (30).
+
+The introduction of this strategy, which was first published in 1996 (31), is the result of numerous studies. In this regard, a systematic review that analyzed the outcomes of several studies on the use of peritoneal lavage in C-AD (321 patients from two prospective studies, nine retrospective and several case series) was published in 2010. The authors concluded that this strategy could control the systemic and abdominal sepsis in 95.7 % of cases, associating a morbidity and mortality of 10.4 % and 1.7 %, respectively (32). Furthermore, only 1.7 % of patients required a colostomy. In their results, the authors also expose that laparoscopic peritoneal lavage should not be considered in C-AD Hinchey IV, since up to half of these patients treated by peritoneal lavage and drainage presented residual pelvic abscesses.
+
+These results led to design two RCTs which are still in development: a) Ladies trial (33), a multicenter RCT that compares the laparoscopic lavage versus the resection plus primary anastomosis or HP in C-AD Hinchey III and IV, respectively; and b) the DILALA trial (34), a RCT focused on comparing the laparoscopic lavage versus the HP.
+
+Preliminary results of the latter (DILALA trial), after analyzing 83 patients, suggest that laparoscopic lavage is short term safe and feasible in C-AD Hinchey III; resulting in less surgical time and shorter hospital and resuscitation stays, without differences in terms of morbidity and mortality with respect to the HP (35). In the same line, the authors of "Ladies trial" have published one of the retrospective studies on peritoneal lavage with best sample size and design (36). In this work, after reviewing 38 patients with C-AD Hinchey II with free gas or Hinchey III, these authors report that laparoscopic peritoneal lavage may control abdominal septic focus after one intervention in 79 % of cases, and after a reoperation in 92.1 %. Mortality rate associated with this strategy is 5.2 %. In addition, a logistic regression analysis revealed that the presence of co-morbidities, very high levels of C-reactive protein and high scores in the Mannheim scale of peritonitis are predictive factors of failure of this therapeutic approach (36).
+
+In summary, peritoneal lavage and laparoscopic drainage, with the advantages inherent to a minimally invasive approach, could diminish the number of urgent laparotomies, bowel resections and stomas; therefore reducing the morbidity associated with the treatment of the urgent episode of C-AD Hinchey II/III. However, the final results of the RCTs currently ongoing are necessary for this approach to be generalized on daily practice.
+
+Primary anastomosis in urgent surgery
+
+Laparoscopic peritoneal lavage may be an alternative in cases of C-AD Hinchey III; however, other authors advocate by resection of the affected segment in both C-AD Hinchey III and IV. Traditionally, this scenario led invariably to HP; however, during the last years, several works have proposed as an alternative the realization of primary anastomosis with or without diversion stoma (37). In this regard, although some authors have published relatively low rates of postoperative complications without the use of diversion ileostomy (24 %-84 %), these works present significant selection bias by including patients with low surgical risk and C-AD Hinchey II/III (38-41). Thus, the current trend is to associate diversion ileostomy in cases in which primary anastomosis is performed.
+
+In this line, several retrospective studies published in recent years have pointed out that primary anastomosis plus diversion ileostomy may have similar outcomes to HP in terms of overall morbidity and mortality (37,38,42,43). In 2012, Oberkofler et al. presented the results of a RCT in which 62 patients with C-AD Hinchey III/IV were randomized to receive colon resection with primary anastomosis and diversion ileostomy, or HP (44). The analysis took into account the urgent procedure, the elective surgery for closure of stoma, and the global care process. When only the urgent intervention was considered, no difference between the two approaches was found in any variable (operative time, blood loss and number of transfusions, stay in ICU, hospital stay, complications, mortality and costs of the process). Conversely, when only the intervention for reversing the stoma was analyzed, the group presenting loop ileostomy (primary anastomosis) was favored with less surgical time (183 vs. 73 minutes), less hospital stay (9 vs. 6 days) and a lower rate of serious complications (3 vs. 0). Likewise, 90 % of the patients with ileostomy underwent surgery for reversing the stoma compared to 56 % in the group with colostomy. Finally, when evaluated both interventions together, only significant differences in operative time and overall number of complications, in favor of the group with primary anastomosis and diversion ileostomy were observed.
+
+In view of these results, it cannot be firmly concluded that the realization of primary anastomosis with diversion stoma be superior to the HP; however, this strategy should be taken into account at least in selected cases of young patients with high probabilities of reversing the stoma.
+
+Monitoring and prevention of recurrence
+
+Most of the current clinical guidelines recommended to do a routine colonoscopy six weeks after a first episode of AD, due to the possible existence of an underlying malignant disease. Nonetheless, the more and more frequent use of high resolution CT-scan in the diagnosis of the acute episode and the results of several series that have evaluated the incidence of cancer in these patients (45-48) have led to some clinical guidelines no longer recommend this attitude (4).
+
+Of those studies that have addressed this issue (45-54), the review with the largest number of patients has been published by Sharma et al. (55). These authors, after the analysis of 11 studies involving patients diagnosed of AD by CT-scan with subsequent colonoscopy (five retrospective studies and prospective the remaining; a total of 1,970 patients) estimated that globally these patients presented: a) underlying carcinoma in 1.6 % (CI 95: 0.9 %-2.8 %) cases; and b) non-malignant polyps in 16.5 % (CI 95: 11.2 %-23.8 %). When the analysis was subdivided into UC-AD and C-AD, the proportion of cancer in the group without complication decreased to 0.7 % (CI 95: 0.3 %-1.4 %), rising to 10.8 % (CI 95: 5.2 %-21 %) in the case of C-AD. These figures, inherently low for patients who suffered UC-AD, become still less relevant when compared with data from a meta-analysis involving 68,324 patients of a screening program for colon cancer in asymptomatic subjects without risk factors (56). In this latest work, the proportion of cancer was estimated at 0.78 % (CI 95: 0.13 %-2.97 %) and at 19 % (CI 95: 15 %-23 %) for non-malignant polyps. This comparison allowed Sharma et al. conclude what previously pointed out by other studies (45-54): In the absence of other signs or clinical symptoms of cancer, routine colonoscopy may not be necessary in patients who suffered from UC-AD diagnosed by CT-scan. These patients could simply be included in screening programs for colorectal cancer. Nevertheless, Choi et al., after a retrospective study with 149 patients, warn that patients older than 50 years perhaps should be taken in particular consideration by a possible increased risk of advanced neoplasia (57).
+
+On the other hand, from the 25 % of patients who are suffering symptomatic diverticular disease, between 7 % and 45 % of them will suffer recurrent episodes of AD. To this respect, special efforts are made to study measures for preventing recurrence of AD as well as improving chronic symptoms. To date, lifestyle measures (fiber intake, interruption of smoking, regular physical activity, and weight loss) and non-absorbable antibiotics as rifaximin have been proposed as possible effective measures on the reduction of the number of episodes of AD (4). Recently, based on the pathophysiological similarities that might share diverticular disease and inflammatory bowel disease, administration of other agents such as mesalamine, sodium butyrate, or probiotics have opened new horizons in the therapy of diverticular disease of the colon.
+
+Regarding mesalamine, still in 2002, an Italian group published that long-term treatment associating this to rifaximin was superior to rifaximin alone improving chronic symptoms and decreasing the number of acute episodes (58). More recently, the results of the DIVA trial, a RCT that evaluated the effect of mesalamine ± probiotics for twelve weeks after a first episode of AD, have been published (59). Although none of these two schemes was superior to placebo in terms of rate of recurrence, a slight effect on chronic symptoms was observed. Similarly, the recent results of the phase III RCTs PREVENT1 (n = 590) and PREVENT2 (n = 592) conclude that mesalamine is not superior to placebo preventing the recurrence of AD (60).
+
+Another molecule that due to its anti-inflammatory role and ability to regulate the intestinal microenvironment may decrease the episodes of AD is sodium butyrate. According to a RCT, the administration of this short-chain fatty acid on a daily basis for twelve months could reduce significantly the number of episodes of AD (31.8 % vs. 6.7 %) and improve chronic symptoms (61).
+
+Finally, the axiom that recommended elective surgery for resection after two episodes of AD is to date controversial, even in cases of C-AD (62). In 2006, the American Society of Colon and Rectal Surgeons stated that this indication should be made on a case-by-case basis and not taking into account only the number of episodes of AD (63). Other current clinical guidelines have adopted this trend (4), which is based on several facts: a) Elective surgery may present severe complications (64); b) the majority of patients with C-AD will do so in the first episode (64-66); c) only 5.5 % of patients with recurrent AD will require urgent surgery since the risk of perforation appears to decrease in this scenario (67); and d) even after resection, some patients will continue presenting discomfort and episodes of AD (65). On the contrary, patients with severe chronic symptoms or those with comorbid conditions such as chronic renal failure, collagenophaties or immunosuppression of any origin would constitute a group that could benefit from early elective surgery (4,68). Regarding elective surgery, current guidelines recommend to perform the most economic resection possible (63), which should extend at least to the proximal rectum in order to minimize the probability of postoperative recurrent AD (69,70).
+
+Discussion
+
+In view of the evidence in favor of the new trends in the management of AD and diverticular disease of the colon (Table II), we are witnessing a gradual change in the diagnostic-therapeutic algorithm of this pathology, which may be modified with the inclusion of these measures in the near future (Fig. 3). Nevertheless, this evidence in the majority of cases is based on only one RCT; therefore, new studies in the coming years must confirm the usefulness of these measures until they can be applied safely and efficiently in daily clinical practice.
+

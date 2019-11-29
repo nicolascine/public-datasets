@@ -1,0 +1,582 @@
+﻿Risk factors for Clostridium difficile diarrhea in patients with inflammatory bowel disease
+
+ABSTRACT
+
+Background: Despite the growing incidence of Clostridium difficile diarrhea (CCD) in patients with inflammatory bowel disease (IBD), little is known about the associated risk factors. 
+Method: A retrospective study comparing cases of CCD in patients with IBD to IBD carriers who did not develop CCD. A comparison was also made with patients who developed CCD but did not suffer IBD. 
+Results: Three cases (20 %) with IBD and CCD had received antibiotics during the previous three months versus none of the controls (IBD without CCD, p = 0.22). Ten cases (67 %) received treatment with proton pump inhibitors (PPIs) versus 2 (13 %) in the control group (IBD without CCD, p = 0.001). Seven cases underwent colonoscopy and pseudomembranes were seen in one (14 %). Fourteen (93 %) patients demonstrated a favourable response to metronidazole. Patients with IBD and CCD presented with younger age (36 ± 10 years), a higher degree of community-acquired infection (13 patients, 87 %), immunosuppressive treatment (7 patients, 47 %) and less patients had received previous antibiotic treatment (3 patients, 20 %) than those with CCD without IBD. The proportion of patients who received treatment with PPIs was similar (66 % and 80 %, respectively p = 0.266). 
+Conclusions: CCD in IBD carriers affects younger patients, the majority are community acquired (less nosocomial) and it is more related to previous treatment with PPIs than with the antibiotic treatment. Clinical evolution is also favourable.
+
+Key words: Clostridium difficile. Inflammatory bowel disease. Ulcerative colitis. Crohn's disease. Antibiotic-associated diarrhea. Metronidazole.
+
+Introduction
+
+The incidence of diarrhea due to C. difficile associated to IBD has increased over the last few years, being higher than the incidence found in the general population (1-5). This anaerobic, spore-forming bacterium is capable of producing toxins that give rise to disruption and inflammation of the colonic mucosa and, occasionally, can cause extraintestinal infection (6). It has been suggested that this infection could contribute to the development of some IBD outbreaks, overall in hospitalized patients (5,7). CCD in patients with IBD usually appears in the hospital setting and affects younger patients (9,10). Once C. difficile intestinal colonization has occurred, the risk of developing diarrhea, or remaining as a carrier, depends, among other circumstances, on the patient's immunological status and serum concentration of antibodies against C. difficile toxins (8).
+
+The adequate use of suitable drugs and hospital epidemiological measures to prevent C. difficile dissemination are the principal means to reduce its incidence (5,9). Included among the CCD risk factors identified within the general population are advanced age, comorbidities, hospitalization and previous use of antibiotics (6,9). It has been shown that systemic corticosteroid treatment favours its appearance in patients with IBD, however the relationship between previous exposure to antibiotics and CCD is lower than in other groups (10,11). Until now, few studies have analyzed the circumstances that trigger CCD in patients with IBD (6). For this reason, it was decided to analyze the risk factors for the development of CCD in patients with IBD and, specifically, improve our understanding of the role of proton pump inhibitors (PPIs) in the appearance of this infection.
+
+ 
+
+Method
+
+A retrospective, observational study was performed in patients with inflammatory bowel disease. The study cohort corresponded to IBD patients who were regularly attended by a system of appointments in a specialist consultation unit of a tertiary hospital in Madrid (Spain) between January 2005 and February 2014.
+
+Cases were defined as those patients who had three or more daily bowel motions for a period of at least 48 hours and were found to be positive for C. difficile in stool samples. For each case, another patient (control), paired for the period (month) and the environment of the episode (ambulatory or hospitalized), was randomly assigned from hospital patients with IBD that had not presented CCD during follow-up. Because two cases acquired the infection while hospitalized for other reasons, two controls (without CCD) were randomly chosen from IBD carriers who had been admitted to the gastroenterology ward during the same month as the cases. The other controls (13 patients) were IBD patients who did not present CCD and were examined in the gastroenterology service during the same month that the cases were diagnosed. Patients were not paired by age or gender in case these demographic variables could have a bearing on the risk of CCD. Subsequently, a comparison was made between a sample of 30 IBD patients with CCD and two controls per case selected from among patients treated for CCD in our hospital during the last 10 years.
+
+The variables studied were age, gender, IBD type, duration of disease, diabetes, prior colectomy, residence in a nursing home, hospital admission during the previous 3 months, comorbidity, treatment for IBD and administration of omeprazole (or other proton pump inhibitor) during the previous 3 months, systemic antibiotic during the previous month, clinical presentation, evolution, recurrence of infection or onset of diarrhea during the 2 months following the episode studied.
+
+The diagnosis of CCD was performed using detection of the glutamate dehydrogenase antigen (GHD) and toxins A and B through enzyme immunoassays (C. DiffQuikChek Complete Techlab®, Blacksburg, Vancouver). In the cases that were GDH antigen positive but toxin negative, the presence of the toxin B gene was determined by polymerase chain reaction (PCR) using the GenomEra CDX C. difficile assay (Abacus Diagnostica, Finland).
+
+Statistical analysis
+
+The Mann Whitney U test was used to compare quantitative variables. The chi-square test, with Yates' correction was used (when necessary) to compare qualitative variables. p values less than 0.05 were considered statistically significant. Given the limited number of patients, a multivariate analysis was not considered appropriate.
+
+ 
+
+Results
+
+Fifteen patients with IBD who presented CCD (cases) were included during the study period. The mean age was 36 ± 10 years, which was lower than that of the controls without IBD (41 ± 10 years, p = 0.039). Eleven cases (73 %) were male versus five among the controls (33 %, p = 0.028). None of the patients resided in a nursing home.
+
+Eight cases (53 %) had ulcerative colitis and seven (47 %) Crohn's disease (Table I). The median duration of the disease was 55 months in cases and 84 months in controls (p = 0.647). Two cases (13 %), who presented granulomatous colitis, had undergone colectomy due to failure to control inflammatory activity. Ten cases (66 %) received chronic treatment with omeprazole (20 mg daily, with the exception of one with 40 mg) versus two control patients (13 %, p = 0.009). Eight cases (53 %) received oral corticosteroid treatment with a mean dose equivalent of 25 mg/24 hours prednisone (p = 0.052). None of the cases was treated with rectally administered corticosteroids. Six cases (40 %) received continuous treatment with infliximab and one (6 %) with adalimumab.
+
+
+
+ 
+
+Three cases had been admitted during the previous three months. In addition, three cases (20 %) had received systemic antibiotics during the previous month compared to none of the controls (p = 0.222) (Table I). In two cases (13 %) the CCD appeared after one week of hospital admission and therefore was considered nosocomial acquisition. Thirteen patients with IBD and CCD (87 %) presented abdominal pain and four patients (27 %) vomiting. Fever was only detected in four patients (27 %) and weight loss in three (20 %). A decision had been taken to admit nine of the thirteen cases of community-acquired CCD (60 %) to hospital.
+
+Nine patients with IBD and CCD (60 %) presented leukocyte counts higher than 10,000/mm3 (mean leukocyte count 13,545/mm3). In seven cases (47 %), colonoscopy was performed during the episode of CCD. Pseudomembranes were seen in one of these (14 %), signs suggestive of moderately active IBD in another (14 %), and mild affectation in three cases (42 %). Six cases (40 %) presented diarrhea, which was attributed to their underlying disease, during the 2 months prior to diagnosis of the infection. Two patients with IBD and CCD (13 %) presented diarrhea after infection but without microbiological demonstration of C. difficile infection relapse.
+
+The diagnosis was made by toxin detection in 8 patients (53 %) and toxin-producing gene detection by PCR in the remaining seven cases (47 %). All patients were treated with 500 mg metronidazole every 8 hours. Only one case had a poor response that required a switch to fidaxomicin 200 mg/12 hours for 10 days. None of the patients with IBD and CCD required admittance to the ICU. One patient died in the case group (due to advanced chronic liver disease) and another in the control group (secondary to disseminated colorectal carcinoma), however these deaths were not related to the CCD.
+
+Comparing cases (CCD and IBD) with patients with CCD but without IBD, it was seen that the former were younger (36 ± 10 and 73 ± 17 years, respectively, p = 0.007). They also had a higher proportion community-acquired CCD (87 %) and immunosuppression therapy (including anti-TNF drugs), but less previous antibiotic therapy (Table II). No significant differences were observed in relation to previous treatment with PPIs, being 66 % in case IBD carriers and 80% in the comparison group (p = 0.266).
+
+
+
+ 
+
+Discussion
+
+The majority of CCD cases in IBD patients appeared in the community as has been observed in similar series (5,6). Only 20 % of the patients had been admitted during the previous months and, in 13 % of the cases, the CCD appeared during a hospital stay which was due to another disease. By contrast, the majority of the patients without IBD (53 %) suffered a nosocomial C. difficile infection (12).
+
+Patients with IBD and CCD were somewhat younger and were predominantly male compared to the controls. None of these findings were identified in previous series and should be interpreted with caution given the low power of the study (6). Advanced age has been identified as a risk factor for CCD in the general population, which is congruent with the older age of the patients without IBD (13).
+
+It should be noted that only 20 % of the cases had received antibiotics during the month preceding the episode of CCD. This epidemiological difference suggests the existence of intestinal flora alterations in IBD patients that could facilitate the spread of C. difficile (4,12,14-16). IBD patients may show a certain degree of immune stimulation, epithelial dysfunction and increased mucosal permeability which could also allow C. difficile colonization and proliferation (5,6,17).
+
+Consistent with other studies, no increased risk of infection was found among patients receiving anti-TNF drugs (17). Different previous studies have shown mixed results in the relationship between corticosteroid therapy and the risk of CCD. Various series have demonstrated an increased risk with systemic administration (18,19), others only with rectal application (5) and others have found no relationship between different types of treatment and the risk of CCD (4). The cases analyzed showed that systemic steroid therapy showed a trend toward statistical significance (p = 0.052) as a risk factor for CCD (18,19). It is possible that the immune impairment secondary to steroids and the subsequent reduction in antibody synthesis could be related to this result (20).
+
+The most significant finding of this study was the relationship between the administration of PPIs and the risk of CCD. The protective role of gastric acidity against vegetative forms of C. difficile, which limits its intrusion into more distal regions of the gastrointestinal tract, is well known (21). PPI treatment was initially associated with the carrier state and recurrences rather than the risk of the first episode of CCD (11,22). Subsequently it was also associated with the appearance of the first episode in general CCD series (23), but only in one of a series of patients with IBD (17). Even taking into account the small number of patients analyzed in this series, the use of these drugs should be questioned for patients with IBD, especially in cases with doubtful indications (24).
+
+The low mortality detected in patients with IBD and CCD is an expected result considering the relatively young patients and low comorbidity (6,12). None of the cases required colectomy or admission to the ICU (12,25). The response to metronidazole was adequate in most IBD cases which suggests the validity of metronidazole as treatment of choice in initial, non-serious episodes of CCD (26-28). Also noteworthy was the low risk of recurrence which is consistent with some previous experiences (29), but differs from that shown in other reports that have observed increased severity and recurrence in patients with IBD (30,31).
+
+C. difficile infection in IBD patients will pose a major problem in the coming years due to its growing incidence and the use of increasingly sensitive microbiological techniques, such as PCR, which can determine the capacity to produce toxins. Although the majority studies based on the general population and IBD have not shown any relevant significant clinical differences with respect to the diagnostic test used (17,32), others found lower severity when PCR was used (33). A subgroup of patients has been identified with diarrhea due to an outbreak of their disease in which C. difficile may have played a role as a mere contaminant (6,33,34). We cannot definitely rule out the possibility that some of our patients belong to this group, although the temporary response to specific treatment does not support this theory.
+
+Some authors have observed a higher incidence of CCD in active IBD patients (4) and it has been suggested that CD infection could participate in the initial pathogenesis of some outbreaks of IBD (3,7). Unfortunately, colonoscopy may not help to confirm CCD because pseudomembranes appear less frequently in patients with IBD (approximately 9 %), especially in the absence of fever (12,28,34,35). In fact, four of our patients exhibited endoscopic signs of activity together with microbiological detection of C. difficile infection. This peculiarity may be related to pathogenic differences in the infection associated with chronic IBD inflammation, with lower severity or, as noted previously, with the detection of cases with C. difficile colonization but whose diarrhea is due to another cause (12,32,34,35).
+
+Highlighted among the limitations of this study are its retrospective nature and the small number of patients, which may have influenced the lack of detection of other potential risk factors, such as previous antibiotic treatments. A multicenter study with greater statistical power will be necessary to further assess risk factors in these patients.
+
+In summary, CCD in patients with IBD is usually acquired out the hospital setting, is associated more with the administration of BP than with previous antibiotic therapy and usually has a favourable clinical evolution.
+
+
+
+Evaluation of bariatric surgery patients at the emergency department of a tertiary referral hospital
+
+ABSTRACT
+
+Objective: To describe the profile of the bariatric surgery patients that were admitted to the Emergency Department (ED). 
+Method: A retrospective review of the reasons why bariatric surgery patients go to our ED. We analyzed the first 30 days after the surgery. We evaluated the number and indications of admissions, the examinations ordered, and final diagnosis and destination of the patients. 
+Results: From January 2010 to July 2012, 320 patients underwent bariatric surgery at our Institution. Fifty three patients (16.6 %) were admitted to the ED at leas t once. We found 58 admissions (1.1 admissions by patient). Patients who had duodenal switch and Roux-en-Y gastric bypass were the most representative (74 %). The main indications for admission were abdominal pain (50 %), and problems related to the surgical wounds (22.4 %). Blood test was the most performed examination (75.9 %). The most frequent final diagnosis was unspecific abdominal pain in 27 cases (46.6 %), and complications of the surgical wound in 10 patients (17.2 %). Nineteen patients (35.84 %) were admitted to the surgical ward from the ED, and 5 of them required surgical revision (9.4 %). Multivariate analyses showed that the type of surgery was the only predictor variable for the ED admission. 
+Conclusions: Attending ED after bariatric surgery is not common, and less than a third of the patients required hospital admission. Just a small percentage of the examinations showed any pathological value. Readmission rate is very low. Surgical procedure is the only predictor for ED admission.
+
+Key words: Bariatric surgery. Emergency department. Complementary examinations. Referral center.
+
+Background
+
+Bariatric surgery (BS) represents several surgical procedures for the treatment of morbid obesity and its related comorbidities. Up to our days, BS has demonstrated to be the only effective and long term treatment for obesity (1) and its related diseases. Day by day, the number of BS patients increases, and next to it the absolute number of complications related to the surgery, some of them diagnosed at the emergency departments (ED). It has been estimated that BS has a morbidity rate around 4 % and mortality below 0.3 % (2). Following the adoption of new surgical procedures, new complications and consequences also appear, some of them previously quite uncommon or just unknown.
+
+On the other hand, medical education has an important deficiency in BS due to its relatively novelty, its scarce (or even null) specific weight in medical training plans, and due to be restricted to highly specialized referral centers. All these limitations imply that in several ED bariatric surgery patients, especially those operated at another hospital, represent and severe challenge for the physicians (3,4).
+
+These problems had been highly discussed by national and international scientific societies of BS. Those societies promoted educational campaigns about morbid obesity, BS procedures and their related complications (5).
+
+This paper evaluates and analyses the profile of the BS patients admitted to our ED, at a tertiary referral BS centre.
+
+ 
+
+Methods
+
+This is a retrospective study about the patients admitted to the ED of our centre (Referral and Tertiary University Hospital), after being discharged for primary bariatric surgery. Our armamentarium of primary bariatric procedures includes: Sleeve gastrectomy (SG), biliopancreatic diversion (BPD), laparoscopic gastric plication (LGP), duodenal switch (DS), and Roux-en-Y Gastric Bypass (RYGB). Revisional surgeries were excluded. Patients operated at our Hospital who went to ED during the first 30 days after discharge were included.
+
+For the analysis we reviewed all the electronic medical records of patients admitted for elective and primary BS from January 2010 and July 2012. We included at the database variables about indication for admission at ED, even it was medical or surgical.
+
+The variables we studied were: Primary bariatric procedure, number of admission by patient (between 0 to 3), the main symptom for admission, complementary examinations performed and their results, final diagnosis and destination after the admission at ED (discharge, admission to Surgical Ward, or emergency reoperation).
+
+It is a descriptive study where discrete variables are presented with their frequency, continuous variables with mean and range. Comparative analysis were done by the chi-square discrete and discontinuous variables, and continuous by t-Student test. The multivariable analysis was constructed by selecting the best model for prediction using the Cp of Mallows criteria. Significant differences were accepted were p remained below 0.05.
+
+Bellvitge University Hospital (Barcelona, Spain) has a Bariatric and Metabolic Unit formed by a multidisciplinary team with more than 20 years of experience. This unit complies the standard of quality and was accredited as a Centre of Excellence by Surgical Review Corporation (SRC) (former accreditation Centre for the American Society for Bariatric and Metabolic Surgery). The ED is a professionalized department with specialized physicians in general family medicine, internal medicine and surgeons with exclusive dedication for Surgical Emergencies.
+
+The multidisciplinary team validated our Bariatric Surgery Protocol in 2008, and it is being revised nowadays. The choice of each procedure is done based on overweight, related diseases, and social and psicopathological conditions of the patients. Complex cases are discussed on monthly basis meetings of the team.
+
+Two expert surgeons, one of them accredited by SRC as a surgeon of excellence by the ASMBS, perform the surgeries. By protocol diet onset is initiated early 24-48 hours after surgery. We also promote early mobilization after surgery and have restricted criteria for using intensive care units postoperatively. In all patients a pneumatic and methylene-blue dye test is done intraoperatively.
+
+During the first postoperative day a new methylene-blue dye test and a blood test are done. We do not use systematically acute-phase reactants. Imaging complementary examinations are reserved for those cases with high suspicious of complications. We maintain the clinical judge to restrict the use of all these tools.
+
+Finally, after hospital discharge patients are followed-up simultaneously by endocrinologists, dieticians, and surgeons one week after surgery, and after 1, 3, 6, 12, 18, and 24 months. After the second year, the follow-up is done yearly.
+
+ 
+
+Results
+
+Between January 2010 and July 2012 we operated 320 patients for BS: 112 RYGB (35.6 %), 95 SG (30.2 %), 76 DS (24.1 %), 28 LGP (8.9 %) and 4 DBP (1.3 %). Fifty three patients (16.6 %) were admitted at least once at the ED, during the first 30 days after surgery. This is our study group. Forty nine patients were admitted once (92.5 %), 3 (5.7 %) twice, and just 1 patient (1.9 %) three times. Globally, all 53 patients were admitted 58 times (1.1 admissions/patient). Table I summarizes the demographic characteristics of the patients included.
+
+
+
+ 
+
+Figure 1 represents the distribution of the admissions between the different types of surgery. Statistical analysis confirms that the distribution of admissions was not homogeneous (p = 0.016); patients after a DS or a RYGB concentrate most of the admissions. Both groups in combination represent the 74 % of all admissions.
+
+
+
+Acute abdominal pain was the main indication for admission, representing 29 patients (50 % of admissions), followed by problems with the surgical wounds in 13 cases (22.4 %).
+
+Complementary examinations performed at the ED are represented at table II. Distribution of them between the surgical procedures was not homogenous either. Ten patients (17.2 %) did not require any blood or imaging examination.
+
+
+
+Final diagnoses are represented in table III. Most of the patients were discharged as unspecific abdominal pain (46.6 %). Usually, unspecific abdominal pain is due to altered bowel movements after the diversion caused at the RYGB or the DS. Patients with impaired diet tolerance were mostly due to dietetic transgressions, without any case of stenosis or food impaction. Patients with intraabdominal infection were treated by radiological percutaneous drainage. Surgical site related complications include a vast number of minor problems, being pain and superficial infections the most frequent; they only required minor attentions and sanitary counseling.
+
+
+
+Nineteen patients (35.84 % of the study group, and 5.94 % out of all BS patients) were admitted to the Surgical Ward. The procedures that mostly required readmission were RYGB (7 patients) and DS (6 cases) (Fig. 2). Five patients (9.4 %) had to be reoperated on an emergency basis, 3 due to incarcerated port-site hernia (all patient operated for a DS), 1 hemoperitoneum (SG group) and 1 bowel occlusion (RYGB group). All 5 patients did well and had an uneventful postoperatory. In the 14 patients readmitted to Surgical Ward with no reoperation, the main indication was fever of unknown origin, intraabdominal collection and severe wound infections.
+
+
+
+None of the five reoperated patients had any complication during the first admission. In the study group the median hospital stay after BS was 4 days, compared to 3 days in those who did not go to ED. During the primary procedure, 6 patients (11.32 %) of the study group presented some complication after surgery versus 22 (8.4 %) of the other group, with no statistical significance (p = 0.468). None of the 53 study group patients had to be reoperated during the first admission.
+
+The univariate analysis showed that the surgical procedure was the only related variable to emergency admission (p = 0.0016). Multivariate analyses also confirmed this as a predictor factor. Sorting the surgical procedures by its complexity, the Odds ratio oscillated from 7.583 (2.03 to 28.3 95% CI) about LGP to SG; and 8.125 (2.64 to 25 95 % CI) of DS to SG.
+
+ 
+
+Discussion
+
+Our institution operates 150 scheduled bariatric procedures a year, which represent about 4 % of the total surgical volume of the hospital. The ED receives a median of 254 patients per day (92,808 admissions in 2013). This means that our series (53 patients) represents 0.06 % out of all admissions (0.7 % of the surgical patients at the ED). Our study shows an emergency admission rate of 16.6 % of the scheduled patients. Our morbidity rate does not differ from the quality standards defined by the International Surgical Societies of Bariatric Surgery (6,7).
+
+This paper presents one of the first series from our country about emergencies after bariatric surgery. The consultation rate at the ED is relatively low for the complexity of the patients and their disease. Most of the patients are diagnosed of unspecific abdominal pain or surgical wound complications, both are minor complications after the surgery. Only 5 patients were diagnosed of major complications and required emergency surgery, all of them underwent an uneventful evolution. Finally, 14 patients required hospital admission for observation or specific treatment. Univariate and multivariate analysis concluded that the type of surgery is the only variable that predicts the ED consultation.
+
+In our area there are other 3 tertiary hospitals with big volume of bariatric surgery (more than 50-100 patients per year). None of them have ever presented or published any result about emergency consultations after bariatric surgery. In the literature, papers from Saunders (8,9) and Nguyen (6) showed similar results related to emergency reconsultations, indications and complications diagnosed. The main differences with our study are that those papers come from private North-American centres and the type of surgeries performed. Despite these papers do not take into account DS or LGP, they agree that the most complex surgeries are more likely to have complications, and therefore require more ED admissions.
+
+The range of complications we may observe at the ED is wide: Acute or subacute bleedings, sepsis due to delayed or late onset leaks, occlusive patterns due to internal hernias or port-site hernias... (2,6,8,9). Other types of consultations are those related to food tolerance, that may increase if the restrictive procedures continue to grow up. It is very important that the ED physicians know the anatomy and pathophysiology of those bariatric procedures. The ignorance of bariatric surgery may lead to a late diagnose and a poor (or even fatal) evolution of those patients (10).
+
+Acute abdominal pain and complications of the surgical wounds were the most important indications for ED admission. The distribution of the visits was not homogenous between the different types of surgeries (p = 0.016). Patients operated for DS and RYGB represent the main group of consultations. The greater technical complexity of both procedures predisposes those patients as the main candidate to ED admission. Moreover, both techniques are indicated to the more complex patients due to greater overweight or comorbidities.
+
+Related to the examinations requested at the ED, we may highlight that most of the patient had a blood test (75.9 %) and a plain abdominal X-ray (70.7 %). Just with these two examinations we achieved the initial screening of the most severe complications. CT scan (done just in 27.6 % of the patients) was reserved for patients with the most complex surgeries -as duodenal switch- or for those with suspicion of intestinal occlusion, due to internal hernia or port-site hernias (11).
+
+Upper endoscopy and esophagus-gastric (US) contrast swallow were the less requested examinations. Both procedures may be very useful for bariatric surgery patients, but its availability at ED is not always possible. Both examinations have restrictive indications and are reserved in case of suspicion of concrete complications related to food intolerance.
+
+The type of surgery or the main symptom should orientate the examinations. The paper from the American Society for Metabolic and Bariatric Surgery (ASMBS) for the management of emergencies after bariatric surgery orientates the diagnosis protocol around the main symptom. This is the best and fastest way to achieve a final diagnosis. In this revision we may find that we follow quite well these guidelines (3,12).
+
+Bariatric surgery patients have different characteristics to normal population. Apart from the new and different surgical procedures, some of them experimental, morbid obesity implies some physiological disturbances. Morbid obese patients have a very low functional physiological reserve that obligates to a fast and direct diagnosis, and an aggressive and early treatment of the complications. On the other hand, their anthropometric characteristics make very difficult physical and imaging examinations. The big subcutaneous adiposity makes very difficult the evaluation of peritonism or the venous access (both central and peripheral). Moreover, most of the technical imaging equipment available at the ED has weight limitations that may exclude some of the bariatric surgery patients. These limitations are the main reason to recommend the evaluation of these patients at referral centers.
+
+Most of the patients of our series (46.6 %) were diagnosed of unspecific abdominal pain, followed by complications of the surgical wound (17.2 %). It is very remarkable that all the complications we registered are surgical; we did not find any medical complications. From the ED, 32.1 % of the patients were admitted to the surgical ward (5.3% out of all the bariatric surgery patients for our period of study). Only 5 patients (9.4 % of the series) required emergency surgery (1.6 % from the initial group), with satisfactory evolution after surgery in all of them.
+
+The multidisciplinary approach (13) of the bariatric surgery in our Institution allows that the patients arrive to surgery with good medical control of the medical comorbidities, which may be the reason for not having any medical complication registered in our series. These results are also a consequence of a very good and significant work done by Infirmary (14) in sanitary education and prevention of complications during the hospitalization. We also observed that as the main complications are minor complications, maybe some aspects of the medical education should be improved.
+
+The design of the paper as an observational and unicentric study is the main limitation. Our Institution is a referral and tertiary centre of a not very wide area, so we estimate that the reliability of our results is high. Moreover, we have a follow-up rate near 75 % at 5 years after bariatric surgery, one of the highest in the literature.
+
+In conclusion, Emergency department consultations after bariatric surgery have a lower rate than we expected for a complex surgical procedure. The main consultations are minor complications, which means that the standardized work-up during the preoperative time and postoperative hospital stay let us reduces the major complications before the discharge. This paper shows also that we have low major complication rates, but we should improve in prevention of minor complications.
+
+
+
+Acute abdomen in patients with systemic lupus erythematosus and antiphospholipid syndrome. Importance of early diagnosis and treatment
+
+ABSTRACT
+
+Systemic lupus erithematosus (SLE) is an autoimmune disease with multiorgan involvement caused principally by vasculitis of small vessels. The gastrointestinal tract is one of the most frequently affected by SLE, with abdominal pain as the most common symptom. An early diagnosis and treatment of lupus enteritis is essential to avoid complications like hemorrhage or perforation, with up to 50 % of mortality rate. However, differential diagnosis sometimes is difficult, especially with other types of gastrointestinal diseases as digestive involvement of antiphospholipid syndrome (APS), moreover when both entities may coexist. We describe the case of a patient with both diseases that was diagnosed with lupus enteritis and treated with steroid therapy; the patient had an excellent response.
+
+Key words: Systemic lupus erithematosus. Antiphospholipid syndrome. Lupus enteritis. Vasculitis. Steroids.
+
+Introduction
+
+Systemic lupus erithematosus (SLE) and antiphospholipid syndrome (APS) are two autoimmune diseases with multiorgan involvement caused principally by vasculitis of small vessels. However, pathophysiology is different in both diseases. The vasculopathy that characterizes SLE is an inflammatory type secondary to immuno-complex deposits in vessel walls, meanwhile APS is characterized by a state of hypercoagulability due to the presence of autoantibodies, potentially resulting in thrombosis. Historically, APS was described as a clinical manifestation of SLE. Since 1985, several studies have reported differences between both diseases, and so APS must be considered as a different entity (1,2).
+
+Gastrointestinal manifestations are relatively frequent in patients with SLE, reaching up to 40 % in cases of active disease. Symptoms may vary from unspecific abdominal pain to life-threatening acute abdomen, known as mesenteric vasculitis or lupus enteritis (LE). Early diagnosis and treatment are crucial to avoid complications as hemorrhage, necrosis or intestinal perforation with a high mortality of up to 50 % (2,3).
+
+On the other side, gastrointestinal involvement is rare in APS (approximately 1.5 % of patients), and includes predominantly affectation of the liver and spleen. However, it is necessary to bear APS in mind in differential diagnosis of acute abdomen, since it may cause a massive intestinal thrombosis known as Asherson's syndrome (4).
+
+We describe the case of a patient with SLE and APS, with abdominal pain and semiology compatible with acute abdomen that was diagnosed with lupus enteritis and treated medically with steroid therapy, resulting in a rapid improvement of her gastrointestinal symptoms.
+
+ 
+
+Case report
+
+A 55-year-old woman, with previous diagnosis (40 years before) of SLE with involvement of the kidney, central nervous system and skin, had a concomitant APS with peripheral vasculopathy and amputation of both inferior limbs. She was admitted with abdominal pain, nausea, vomiting, diarrhea, abdominal distension and anorexia during the last two weeks, with worsening during the three days previous to her admission. Neither fever nor other symptoms suggesting activity of SLE were referred. Physical exploration revealed distended abdomen with tympanism, absence of bowel sounds and diffuse abdominal pain with unclear signs of peritoneal affectation (defense or rebounding sign). Laboratory tests showed leucopenia (3 x 103/mm3) and thrombocytopenia (99 x 103/mm3). Abdominal computed tomography (CT) findings were dilated small bowel, marked edematous thickening of the wall of the right colon and small bowel, and a mild amount of ascites. A diagnosis of intestinal ischemia probably related with APS was established and medical treatment was indicated, consisting basically on intestinal rest, intravenous fluids, non-steroid anti-inflammatory drugs (NSAIDs) and therapeutic doses of low-weight subcutaneous heparin. Initially, surgical exploration was discarded due to the extended period of duration of symptoms and the lack of clear signs of acute abdomen.
+
+Further laboratory data revealed persistence of leucopenia and thrombocytopenia, decreased complement factors (C3 and C4) and positive antinuclear antibodies (ANA), anticardiolipin, antiB2 GP1 and lupus anticoagulant. After four days without improvement of symptoms and persistence of dilatation of the lumen of the small bowel on abdominal X-ray, indication of a second CT was established, which showed similar but more pronounced findings if compared with the previous one: Dilated bowel, marked thickening of the wall of jejunum and ileum caused by edema ("double halo or target sign"), mesenteric edema, engorgement of mesenteric vessels and moderate ascites. Abdominal exploration had worsened too, showing clinical signs of acute abdomen, and surgeon on duty was called. Considering clinical profile, radiological findings and laboratory data, the possibility of LE was then suggested and extensively discussed, and intravenous administration of high doses of corticosteroids was initiated. She was treated with 1 g/d of 6-methylprednisolone (6-MP) during 48 hours and then reduced to 500 mg/d. Improvement of her symptoms was visible during the first 24 hours, and after three days the patient was asymptomatic and allowed us to reintroduce oral diet. Previous malnutrition and a respiratory infection requiring specific antibiotic therapy prolonged hospital stay, but patient was discharged 29 days later with a maintenance dose of 60 mg/d of prednisone with progressive withdrawal.
+
+ 
+
+Discussion
+
+Systemic lupus erithematosus (SLE) is a chronic inflammatory disease that belongs to the group of the diseases known as systemic vasculitis whose common pathologic feature is inflammation of the walls of small vessels, with other diseases like polyarteritis nodosa (PAN), Churg-Strauss syndrome, Wegener granulomatosis (WG) or Takayasu arteritis. SLE is characterized by the involvement of various organs, frequently skin, kidney, central nervous system and gastrointestinal tract. Unspecific gastrointestinal symptoms are frequently observed in this disease; anorexia, nausea or vomiting may be present in approximately 30-50 % of patients, being abdominal pain the most common symptom (around 20 %) (5-7).
+
+Lupus mesenteric vasculitis (LMV) is one of the most serious complications of SLE, with an estimated incidence ranging from 0.2 to 9.7 % of patients with active disease and less than 1 % of those ones with inactive disease. It is unusual that LMV constitutes the initial presentation of SLE. It is frequently associated with thrombocytopenia, lymphopenia and central nervous system and skin involvement. Triggering factors of LMV are unknown, but bacterial infections (associated with changes of the intestinal flora), animal viruses, cytomegalovirus infection, eosinophilia, chemicals, NSAIDs, metallic particles, caffeine, exercise and certain foods and herbal medicines have been proposed as potential etiologic factors (2,8). LMV affects preferentially the territory of superior mesenteric artery, especially jejunum and ileum (80-85 %), and it is produced by accumulation of immunocomplex deposits in the wall of the vessels (5). Although generally shows a benign and insidious clinical course, sometimes LMV may produce severe intestinal ischemia complicated with hemorrhage, ulceration and perforation, with a mortality that may reach up to 50 % (2,9).
+
+Early diagnosis and treatment are crucial to avoid these catastrophic complications. Contrast-enhanced CT is considered the most sensitive and specific noninvasive tool for diagnosis of LMV. Most common CT findings are segmental or multifocal bowel involvement alternating with normal segments of healthy bowel, bowel dilatation, engorgement of mesenteric vessels, mesenteric edema, bowel wall thickening with abnormal enhancement caused by submucosal edema called "double halo or target sign" (Fig. 1) and ascites (Fig. 2). Other CT findings suggestive of LMV are hepatosplenomegaly, retroperitoneal lymphadenopathy and pancreatitis (5-10). Ultrasonography is another noninvasive tool which may be helpful in both diagnosis and follow-up of LMV. Magnetic resonance imaging (MRI), double-contrast radiographic assessment of the upper and lower gastrointestinal tract, capsule endoscopy and Ga67 gammagraphy have shown to be useful, but these techniques have not been accepted widely. As affected vessels are usually deep and inaccessible, endoscopy-guided biopsy is not recommended for definitive diagnosis (2,5).
+
+
+
+
+
+ 
+
+The mechanism of injury is an inflammatory but not an atherosclerotic or embolic occlusion of small vessels. This is the reason why medical treatment is based on aggressive doses of intravenous corticosteroids and absolute intestinal rest, followed by a gradual steroids withdrawal and reintroduction of oral nutrition. Another option is prescription of cyclophosphamide (initial doses of 1-2 mg/kg/d and afterwards a monthly dose) or mycophenolatemofetil, but several authors recommend this therapy only in case of failure of steroid therapy. Finally, surgical evaluation and early laparotomy must be indicated if medical treatment is not successful (within 48 hours), because prognosis of these patients might be improved. Ultrasonography and abdominal CT are useful tools in follow-up of medical therapy. A combination of cyclophosphamide and corticosteroids must be prescribed if there is evidence of active disease after surgery (2,5-8). In recurrent forms micofenolate mofetil, azathioprine, ciclophosphamide and rituximab have been successfully used to prevent further recurrence in a limited numbers of patients.
+
+APS is an autoimmune disease characterized by recurrent arterial and venous thrombosis. Patients with APS show high levels of antiphospholipid antibodies (anti-cardiolipin, antiB2 GP1 antibodies and positive lupus anticoagulant). APS may be defined as primary in about 53 % of cases, but it may be associated with other autoimmune disease such as lupus, and then it must be defined as secondary. In fact, initially APS was described in a group of patients with SLE (secondary disease), but since 1985 primary APS must be considered an independent disease (1,4,11,12). It is a multiorgan disease, with similar clinical profile when compared with lupus: affectation of central nervous system (migraine, epilepsy, cognitive disorders), pulmonary (alveolar hemorrhage), hematological (thrombocytopenia, autoimmune hemolytic anemia), renal (glomerulonephritis), skin (livedo reticularis and cutaneous ulcers), recurrent fetal loss (1,13). Nevertheless, in APS is infrequent that gastrointestinal tract is affected (about 1.5 %), and when APS involves digestive system this affectation includes principally hepatic manifestations (Budd-Chiari syndrome, hepatic venous thrombosis), splenic or pancreatic infarction. Intestinal infarction is rare, but a catastrophic variant known as Asherson syndrome has been previously described. It is an accelerated form of APS resulting in diffuse intestinal infarction and multiorgan failure because of multiple small vessel occlusions, with up to 50 % of mortality rate. The most common precipitating conditions are infections (22 %) and surgical procedures (10 %). Other less common causes are anticoagulation withdrawal or low international normalized ratio (INR), medications, obstetric complications and neoplasia. Radiological findings (abdominal CT) in these patients are similar to other entities that lead to intestinal ischemia: enhancement of the wall of the bowel, free intraabdominal fluid, lack of enhancement of the arterial vasculature with intravenous contrast, intestinal pneumatosis and gas in the portal system. Medical support is a combination of intravenous glucocorticoids and anticoagulant therapy, associating initially low-molecular-weight heparin and warfarin and ciclophosphamide in cases with concomitant SLE. Duration of treatment depends on clinical course and an optimal length has not been well defined. Surgery must be reserved for cases of failure of medical treatment or presence of obvious peritonitis. Hydroxychloroquine, plasmapheresis and other immunomodulatory therapies (through a decrease of levels of anticardiolipin antibodies) have been purposed by several authors for thrombosis prevention in these patients (1,4,5,14,15).
+
+In our patient, the initial non-specific symptoms led us to a wrong diagnosis and therefore the beginning of steroid therapy was delayed. In spite of that, it is important to emphasize that the patient had a previous diagnosis of both entities, SLE and APS, and both were potentially responsible of the clinical profile. As soon as radiological CT images suggested the possibility of LMV we focused on it and an appropriate therapy was prescribed, but this delay could cause complications as hemorrhage or perforation with an associated high morbimortality. Immediate response to medical therapy with steroids confirmed the diagnosis.
+
+In summary, SLE and APS are two different autoimmune diseases with a few similar characteristics, and they may be present in the same patient concomitantly. Among 4-10 % of patients with APS will develop a fully established SLE in the future. Gastrointestinal affectation is more frequent in SLE, although both diseases may be the origin of an acute abdomen with a high rate of mortality. Therefore, a diagnostic effort must be performed in order to establish an adequate medical treatment, trying to avoid an undesirable medical course and surgery. Contrast-enhaced abdominal CT is considered the most useful tool for diagnosis of mesenteric vasculitis. Classical image "in reveille or double halo" suggests strongly the diagnosis of SLE, meanwhile CT findings of gastrointestinal affectation of APS are usually unspecific. Medical treatment must be considered the first option in both cases, with high doses of intravenous glucocorticoids in SLE, and glucocorticoids with anticoagulants in APS. Surgery must be reserved for cases without successful medical treatment or complications.
+
+
+
+Eosinophilic cholecystitis: An infrequent cause of acute cholecystitis
+
+ABSTRACT
+
+Eosinophilic cholecystitis (EC) is a rare disease that is characterised by eosinophilic infiltration of the gallbladder. Its pathogenesis is unknown, although many hypotheses have been made. Clinical and laboratory manifestations do not differ from those of other causes of cholecystitis. Diagnosis is histological and usually performed after analysis of the surgical specimen. We report the case of a woman aged 24 years, with symptoms of fever, vomiting and pain in the right upper quadrant. When imaging tests revealed acalculous cholecystitis, an urgent cholecystectomy was performed. Histological examination of the surgical specimen revealed eosinophilic cholecystitis. No cause of the symptoms was found.
+
+Key words: Eosinophilic cholecystitis. Acalculous cholecystitis.
+
+Introduction
+
+Eosinophilic cholecystitis is an uncommon condition of the gallbladder. It is characterised by an inflammatory infiltrate constituted mainly of eosinophils. Its aetiology is often unknown, although cases have been associated with hyper-eosinophilic syndrome, parasitosis, infections, drugs and medicinal herbs. Clinically, it is indistinguishable from common cholecystitis, although peripheral eosinophilia is sometimes observed, as is the case in hyper-eosinophilic syndrome and parasitic disease. When the effect is limited to the bladder, the treatment of choice is cholecystectomy, and the prognosis is usually favourable.
+
+ 
+
+Case report
+
+A 24-year-old woman presented to the emergency department complaining of abdominal pain, located in the epigastrium and radiating to the right upper quadrant, together with nausea, vomiting and fever of 39 oC for the past two days. The presence of choluria was also reported. The patient had no personal or family history of interest. She smoked about five cigarettes per day and was a habitual consumer of oral contraceptives. Physical examination revealed good general condition, with cutaneous-mucous jaundice and tenderness in the right upper quadrant, and a positive Murphy sign. Other results of the examination were normal. Laboratory analysis revealed the following alterations: Total bilirubin 3.76 mg/dL (range 0-1.2 mg/dL); direct bilirubin 3.5 mg/dL (range 0-0.5 mg/dL); indirect bilirubin 0.26 mg/dL (range 0-0.75 mg/dL); alanine aminotransferase 174 U/l (range 0-35 U/l); amylase 49 U/L (range 28-100 U/L); C-reactive protein 149.12 mg/L (range 0-5 mg/L); leukocytes 15,500 µl (range 4.8-10.8 µl); neutrophils 86.3 % (range 40-74 %); lymphocytes 4.2 % (range 19-48 %); monocytes 6.9 % (range 1-9 %); eosinophils 2.2 % (range 0-7 %); prothrombin activity 60.8 % (range 70-120 %), INR 1.34 (range 0.85-1.2); APTT 28.2 sec (range 23.5-33.2 sec). Abdominal ultrasound findings: Thin-walled acalculous gallbladder; non-dilated bile duct; no evidence of pancreatic abnormalities. In view of the clinical and laboratory findings, the patient was admitted to monitor the evolution of the condition and for further study.
+
+During admission, abdominal and cholangio MRI were performed to assess the bile duct, obtaining the following results: no dilatation; no evidence of bile duct filling defects; space-occupying lesion of 9 mm in segment 8 with uptake and density suggesting hemangioma; no evidence of alterations in pancreas or liver. Further analyses were performed, which revealed increased total bilirubin, decreased direct bilirubin, increased leukocytosis, increased C-reactive protein, and normal levels of amylase, transaminases and cholestatic enzymes. The patient had malaise, with increased pain despite analgesia, and painful abdominal tenderness, with a tightening in the epigastric right upper quadrant. In view of this situation, an urgent abdominal CT scan with IV contrast was performed (Fig. 1), which showed perivesicular oedema without calculi or biliary dilatation, with a small amount of free fluid in the Douglas pouch. There were no images suggestive of perforation or pancreatitis.
+
+
+
+The patient's clinical condition was worsening and presence of cholecystitis was suspected, and so an urgent cholecystectomy was performed, which revealed a thickened gallbladder wall with oedema on the rear surface. The pathology examination revealed the presence of a transmural infiltration, and of a more intense infiltration in the muscular layer, by eosinophilic polynuclear leukocytes (Fig. 2).
+
+
+
+After surgery, the patient was asymptomatic and was discharged a few days later.
+
+ 
+
+Discussion
+
+Eosinophilic cholecystitis (EC) is a rare and poorly understood disease of the gallbladder, which was first described in 1949. It can be considered an inflammatory condition of the gallbladder, in which the inflammatory infiltrate consists primarily of eosinophils (1).
+
+The aetiology of EC is unknown. In patients with eosinophilic infiltrate affecting other organs and tissues, it has been suggested that these lesions could be due to a local allergic reaction to substances released at sites of inflammation within the target organ or tissue. It has also been hypothesised that EC may be caused by hypersensitivity to bile acids (2,3).
+
+Cases have also been reported secondary to infections, parasitosis, allergies, hyper-eosinophilic syndrome, eosinophilia-myalgia syndrome, eosinophilic gastroenteritis, drugs and herbal medicines (4,5). In the absence of evident causes, we consider the present case to be an idiopathic EC (6).
+
+EC is three times more common in patients with acalculous cholecystitis than in patients with cholelithiasis (6).
+
+EC does not present any clinical or laboratory manifestation to distinguish it from common cholecystitis, and so it is difficult to detect prior to cholecystectomy and histological examination of the surgical specimen. Peripheral eosinophilia may or may not be present; when it is, it has been associated with hyper-eosinophilic syndrome, eosinophilic gastroenteritis and parasitosis. In addition, symptoms secondary to the eosinophilic infiltration of other organs have been described (8).
+
+Diagnosis is histological; EC is said to be present when the cellular infiltrate in the gallbladder wall is composed of more than 90 % eosinophils, and the cholecystitis is chronic with an eosinophilic (lympho-eosinophilic) component if the infiltrating inflammatory leukocyte population contains 50-75 % eosinophils (9). In imaging tests, ultrasound results may be normal or show signs suggestive of cholecystitis (gallbladder distension, wall thickening, perivesicular liquid or sonographic Murphy sign). A CT scan may reveal similar features, with perivesicular oedema or decreased attenuation in the adjacent liver, indicative of perihepatitis (10).
+
+EC prognosis is favourable. When the disease is confined to the bladder, the treatment of choice is cholecystectomy, preferably performed laparoscopically. Treatment with corticosteroids can be effective when the bile ducts are affected, or when the condition is associated with eosinophilic gastroenteritis.
+
+It is generally accepted that EC should not be considered a separate entity, because the clinical and laboratory manifestations are indistinguishable from those of common cholecystitis, and therefore it is considered more a histological finding than a pathology in itself. The importance of EC lies in the fact that it can be associated with other diseases, and therefore, when it is observed, possible associated syndromes should be investigated.
+
+
+
+Octreotide long-active release in the treatment of gastrointestinal bleeding due to vascular malformations: Cost-effectiveness study
+ 
+
+ABSTRACT
+
+Introduction: Gastrointestinal hemorrhage due to vascular malformations has a negative impact on patients' quality of life and consumes an important quantity of resources. 
+Objective: Analyze the cost-effectiveness of long-active releasing octreotide (OCT-LAR) in the treatment of gastrointestinal haemorrhage secondary to vascular malformations. 
+Material and methods: Retrospective study, including 19 pacients that were treated with mensual injections of OCT-LAR between 2008-2013. The number of blood transfusions, hemoglobin levels, hospital admissions and possible side effects during the year before treatment and the year after the start of the treatment were assessed, and cost-effectiveness was analyzed. 
+Results: After the beginning of the treatment with OCT-LAR, complete response was observed in 7 patients (36.8 %), partial response in 7 patients (36.8 %) and 5 patients (26.3 %) continued to require admissions, blood transfusions and/or endoscopic treatment. We observed significant reduction in the length of admission per year (in days) before and after the start of the treatment (22.79 versus 2.01 days, p < 0.0001) as well as in the number of blood transfusions administered (11.19 versus 2.55 blood transfusions per year, p = 0.002). The mean haemoglobin levels increased from 6.9 g/dl to 10.62 g/dl (p < 0.0001). We observed reduction of costs of 61.5 % between the two periods (from 36,072.35 € to 13,867.57 € per patient and year, p = 0.01). No side effects related to treatment were described. 
+Conclusion: In conclusion, OCT-LAR seems to be a cost-efficient and safe pharmacological treatment of gastrointestinal haemorrhage secondary to vascular malformations, mainly in patients in whom endoscopic or surgical treatment is contraindicated.
+
+
+Introduction
+
+Gastrointestinal haemorrhage secondary to vascular malformations represents an important clinical problem that has a major negative impact on the quality of life of patients, as it frequently requires numerous therapeutic interventions, and is therefore associated with high economical burden (1).
+
+The natural history of vascular malformations has not been entirely understood, although some factors such as hypoxy and subsequent release of epithelial growth factors may play a role in its physiopathology and may be used as a target of future therapies (2-4).
+
+
+Endoscopic interventions are the mainstay in both diagnosis and treatment of vascular malformations. The most frequently implicated therapeutic method is argon plasma coagulation; however, due to relatively high rebleeding rate some patients may require various treatment sessions (5). Repeated endoscopies may carry high risk of complications, mainly in elderly patients with important comorbidity, who represent a significant proportion of the affected population. Conservative medical treatment with octreotide and octreotide LAR has therefore been intended as a maintenance therapy with promising results in this group of patients (5-7).
+
+The objective of the present study was to assess the long-term effect and cost-effectiveness of OCT-LAR in the treatment of gastrointestinal bleeding from vascular malformations in our centre. To our knowledge there is no other published study that evaluates the economical impact of treatment with this drug.
+
+ 
+
+Material and methods
+
+Our hospital is a tertiary centre that attends the area with approximately 638,000 inhabitants. Our Department of Gastroenterology consists of three sections: Gastroenterology, hepatology and endoscopy. Patients that suffer from recurrent gastrointestinal bleeding from vascular lesions are assessed and treated in the Clinic of Gastroenterology and Endoscopy.
+
+We performed a retrospective study, in which we included all patients with recurrent gastrointestinal bleeding secondary to vascular malformation that were treated with mensual administration of OCT-LAR between January 2008 and December 2013 in our centre, in total 24 patients when the study started.
+
+Patients
+
+Clinical evaluation and indication of OCT-LAR treatment in each patient was performed by a responsible consultant in the clinic. Given that the treatment is administered off-licence, a protocol was elaborated and at least two of the following criteria had to be fulfilled in order to be able to prescribe OCT-LAR:
+
+- Recurrent gastrointestinal bleeding with necessity for blood transfusion (more than 4 transfusions per year) or frequent hospital admissions (more than 2 hospital admissions per year or more than 10 admissions to emergency department per year).
+
+- Important comorbidity (ASA III or IV) and high risk related to performing surgical or repeated endoscopic interventions.
+
+- At least 3 sessions of unsuccessfull endoscopic treatment, and continuous need for high transfusional requirements and/or admissions.
+
+- Multiple lesions with difficult endoscopic access and high transfusional requirements and/or admissions.
+
+We found 24 pacients that fulfilled at least two of the above mentioned criteria. Five of those were excluded from the study: Three because they died from different causes than digestive bleeding few months after the start of the treatment, and two because they started the treatment recently (2 and 3 months before the start of the study, respectively), which means the response to the therapy could not be correctly evaluated (Fig. 1).
+
+ 
+
+
+
+ 
+
+In order to assess the efficiency of the treatment, we collected the variables during one year before and one year after the start of OCT-LAR , excluding the time before the diagnosis.
+
+Data sources
+
+In our centre, OCT-LAR is used off-licence and data of all the patients that were given the treatment in this indication are stored in the Department of Pharmacy.
+
+We reviewed clinical history of these patients (electronically in the hospital intranet or in written form as obtained from the archive of the hospital), including their previous medical history, relevant comorbidity, medication that interferes with blood coagulation or agregation, levels of haemoglobin, necessity of blood transfusions, administration of iron supplements orally or intravenously and its doses, administration of subcutaneous erytropoetin, number of diagnostic and therapeutic endoscopies, hospital admissions related to gastrointestinal haemorrhage and total length of admissions per year (in days).
+
+In our hospital, the economical evaluation of health servicies is based on the system of codification of Group of Related Diagnosis (Grupo de Diagnóstico Relacionado; GDR). Each hospital admission, visit to the emergency department or ambulatory assistence receive a numeric code based on the final diagnosis according to CIE-10. Each code has an economical value asigned by health authorities of each Spanish independent community. Equally, depending on the length and number of services rendered, a unit is asigned to each of the codes, that represent the number of times that suggests how many times the codified value can be multiplied in order to reach the final value that is invoiced. In order to obtain the costs for the purpose of our study, we contacted the Department of Codification in the central hospital archive, and we collected the codes and the units of each hospital assistence of all patients using the programme HCIS. The equivalent value in euros was calculated using the "Boletín oficial de la comunidad de Madrid 215 (BOECM 215)" issued on the 10th of September 2013 where the monetary equivalence of each code is described. In order to obtain the value of services that are not codified, such as digestive endoscopies, we asigned a mean value to the upper gastrointestinal endoscopies, colonoscopies and capsule endoscopies according to the data available in the department of costs of our hospital. The Department of Pharmacy provided us with the value of each presentation of the drug at the purchase price. The costs also include the price of all medication administered during the admissions, such as erythropoetin and intravenous iron supplements, as well as of any other treatments and investigations that were performed. In our hospital there is no day centre in which procedures such as intravenous iron administration or blood transfusions could be performed, and patients requiring these measures are usually admitted to the emergency department.
+
+The costs included the last year before the start of the treatment and the first year afterwards. The costs related to the investigations which lead to the final diagnosis were excluded from the analysis in order not to bias the beneficial effect of the drug.
+
+Definitions
+
+The diagnosis of vascular malformations of the digestive tract (angiodysplasias or watermelon stomach) was established by endoscopic studies (upper GI endoscopy, colonoscopy or capsule endoscopy), associated or not with relevant imaging techniques (for example computer tomography with intravenous contrast).
+
+Therapeutic interventions
+
+In our centre, the treatment of vascular lesions with OCT-LAR is performed according to a protocol developed by colaboration of Department of Gastroenterology and Pharmacy, always off-licence and after excluding all other treatment possibilities due to motives that were described previously. We started with the dose of 10 mg administered monthly by intramuscular injection; the effect was reviewed at least every 3 months, and the dose was increased to 20 or 30 mg monthly (or not) according to the clinical response. In some cases we started directly with the dose of 20 mg or 30 mg monthly, based on the criteria of the prescriber. Once the treatment was started it was maintained indefinitely if the patient continued to present good response.
+
+Measuring effectivity
+
+After the start of the treatment, the number of blood transfusions, levels of haemoglobin, hospital admissions including the length of admission, admissions to the emergency department, necessity for endoscopic treatment and possible side effects were assessed at least once every three months. The criteria for response were defined as follows:
+
+- Complete response: No further need for blood transfusions, admissions nor endoscopic treatment, with mean blood hemoglobin of at least 9.5 g/dl.
+
+- Partial response: At least 50 % decrease in the necessity for blood transfusions, admissions or endoscopic treatment, with mean blood hemoglobin of at least 9.5 g/dl
+
+- No response: All the patients that did not fulfill the criteria of partial or complete response.
+
+Analysis of subgroups
+
+We have analyzed different subgroups in our cohort, nevertheless, they were not included in the present study given the small number of patients in each subgroup, which would then limit the validity of the obtained results.
+
+Statistical analysis
+
+The statistical analysis was performed using SPSS programme version 21.0 (IBM SPSS Statistics, Chicago, IL). Normal distribution was evaluated using the Shapiro-Wilk test for small samples. Continuous variables were expressed as media, mediana with confidence interval of 95 % and were compared using the t-Student test if normal distribution was confirmed, and using non-parametric tests (Wilcoxon test for related samples) if the distribution was not normal. We performed comparations between the year before and after the start of the treatment. P-value inferior than 0.05 was considered statistically significative.
+
+Ethical aspects
+
+The data were collected according to the ethical standards our centre.
+
+ 
+
+Results
+
+Finally 19 patients were included in the study, 17 men and 2 women, with mean age of 74.11 years (range 62-87, standard deviation 6.86). All patients had important comorbidity that limited the performance of exhaustive endoscopic therapy (ischemic heart disease, valvulopathy, cardiac arrhythmia like atrial fibrillation or ictus); three patients presented chronic obstructive pulmonary disease, three liver cirrhosis with portal hypertension and three chronic renal insufficiency.
+
+As far as concomitant medication was concerned, fourteen patients were on oral anticoagulants and/or antiaggregants: Seven of those were receiving simultaneous anticoagulant and antiaggregant medication, five only antiaggregants and two only anticoagulants.
+
+All 19 patients presented anemia which was difficult to control; eleven of them described overt recurrent hemorrhage in form of melena, hematochezia or rectorrhagia. Except for 1 patient with important cardiac and pulmonary comorbidity, all patients had an upper GI endoscopy and colonoscopy. Moreover, 15 patients underwent endoscopic study of small intestine with capsule endoscopy (15 cases) and/or enteroscopy (2 cases).
+
+Endoscopic study revealed angiodysplasias in 16 patients; 3 patients with liver cirrhosis presented hypertensive gastropathy, 2 of these lesions called watermelon stomach; only 1 patient with severe comorbidity did not undergo any endoscopy. Ten patients had angiodysplasias localized in the small intestine, three in the colon and three lesions affecting simultaneously both small and large bowels. No patient presented skin involvement or previous family history of gastrointestinal hemorrhage. Fifteen patients received previous endoscopic treatment, the mean number of sessions was 2.46 (range 1-8, SD 2.02). Argon plasma coagulation was the method of choice in all cases and no relevant complications were observed. The long-time success rate, however, was quite low, as all patients presented rebleeding, after mean time of 38.4 days (range 3-96 days) after the treatment. Likewise, the treatment did not reduce the necessity for hospital admissions and/or blood transfusions. Surgical interventions were contraindicated due to age and/or associated comorbidity.
+
+Baseline characteristics of all patients are resumed in table I.
+
+We compared the year before the start of treatment to the year afterwards in all patients.
+
+The mean time from the diagnosis to the start of the treatment with octreotide was of 25.42 months (range 11-48 months; SD 17.34). As for the anemia, we found significant reduction in the accumulated mean annual doses of iron supplements, counting with both oral and intravenous supplements during both periods (408.5 g per year vs. 203.6 g per year and patient; p = 0.002). Before starting OCT -LAR, 18 patients required treatment with iron (15 patients oral and intravenous and 3 patients oral) and afterwards, 15 patients continued to need supplements (7 patients both oral and intravenous and 8 patients oral). Similarly, we observed reduction in number of patients and the dose of darbepoetin alpha. During the first period, six patients received treatment with an accumulated dose of 396.7 mcg per year and per patient, while in the second period only half of them continued to receive darbepoetin, with an accumulated dose of 156.7 mcg per year and per patient (p = 0.013). Mean hemoglobin, mean dose of iron supplements per (both oral and intravenous), mean dose of darbepoetin alpha per year, mean length of admission in days per year and mean number of blood transfusions in the two periods are depicted in figures 2, 3 and 4.
+
+Twelve patients started treatment with the dose of 10 mcg of OCT-LAR, administered by intramuscular injection; of these, three required increase in dose to 20 mcg monthly, six patients initiated with dose of 20 mcg and one patient (number 19) directly with 30 mcg of OCT-LAR monthly. The mean duration of treatment was of 26.32 months, eleven patients received treatment during more than 24 months.
+
+For the purposes of this study we only analyzed the year before the start of the treatment and the year afterwards. Of these 19 patients included in the analysis, 13 continued with the same initial dose during a mean time of 18.8 months (range 11-26). Six patients required adjustment of dose. In three of them the dose was increased from 10 to 20 mcg after mean time of 7.5 months (range 4.5-12 months) due to persistent anemia and necessity for blood transfusions (patients number 6, 7, and 11) and in other three patients the treatment was stopped due to lack of the effect after 17, 19, and 22 months of administration (patients 7, 16, and 18). It is interesting that all these cases were patients with liver cirrhosis with portal hypertension.
+
+We have obtained complete response in 7 cases (36.8 %), partial response in another 7 patients (36.8 %). The rest of the patients (5/19; 26.32 %) precised the same or higher number of blood transfusions, iron and darbepoetin alpha supplements and/or endoscopic treatment and hospital admissions related to the gastrointestinal hemorrhage. All patients with complete or partial response presented angiodysplasia. Three of the five patients that did not respond to treatment had cirrhosis with lesions related to portal hypertension, associated with gastric antral vascular ectasia (GAVE) in two cases, and given the lack of response to OCT-LAR treatment, the drug was stopped in these three cases.
+
+When we compared the subgroup of patients that were receiving anticoagulants and/or antiaggregants to those that did not, we did not find any significant differences in the necessity of readmissions or number of blood transfusions.
+
+Before OCT-LAR was started, 13 patients underwent endoscopic therapy with mean number of 2.46 sessions per patient; of theses, only 5 required posterior endoscopic treatments, with a mean number of 1.2 sessions. All of them belonged to the group of patients with no response to treatment (patients 7, 11, 15, 16, and 18).
+
+When we compared the three different types of response (complete, partial and none), no statistically significant differences were found as far as mean hemoglobin levels, the length of the admission in days, mean number of blood transfusions or the mean costs in the period before the start of the treatment are concerned. In the period after the start of the treatment, we found statistically significant differences between the group with complete response (CR) and the group of partial response (PR) in the number of blood transfusions (0 and 1.13; p = 0.005), the mean annual dose of iron (27.8 g and 180.6 g; p = 0.003) and length of admission in days (0 and 11.8; p = 0.048). When the group with PR was compared to the group with no response (NR), statistically significant differences were found in the number of blood transfusions (1.13 and 7.8; p = 0.003), days of admission (5.4 and 11.8; p = 0.048), the mean annual dose of iron (180.6 and 480; p = 0.002) and total annual costs (11,269 € and 23,742; p = 0.002). The comparisons between the three groups are shown in figure 5.
+
+No side effects related to the OCT-LAR treatment were observed, only one patient was diagnosed with asymptomatic colelithiasis during the treatment, altough we do not know if it was present before the start of the therapy.
+
+The mean annual costs of the treatment before the start of OCT-LAR were of 36,072.34 € per patient (range 1,610.49 € to 122,840.50 €, SD 35,975.52 €) and in the period afterwards was of 13,867.57 € per patient (range 7,371.96 € to 36,891.64 €, SD 4,453.02 €), including the cost of the drug that in our Department of Pharmacy was of 614.33 € per dose in the presentation of 10 mg, 820.15 € per dose in the presentation of 20 mg and 1,025.97 € per dose in the presentation of 30 mg. Table II resumes the costs of the admissions to the hospital and the emergency department and the endoscopic treatments before and after the treatment.
+
+ 
+
+
+
+ 
+
+With the previous data we calculated reduction of 61.5 % of the mean costs between the two periods (from 36,072.35 € to 13,867.57 € per patient/year, p = 0.01). The item that implies the major expense was the hospital admission that represented 95 % in the period before the start of the treatment and 88 % of the costs in the later period.
+
+When we analyzed the costs of treatment of each patient separately, we observed similar costs reduction in fourteen of them, while five patients maintained similar or higher costs after the start of OCT-LAR. Two of the latter presented angiodysplasia with continuous need for blood transfusions but not hospital admissions and limited initial clinical response, which required adjustment of the dose of OCT. In the other two patients had liver cirrhosis with portal hypertension, no improvement in any of the assessed items was observed, and the fifth one did not present clear clinical response, although reduction in total treatment costs was appreciated (patient 7).
+
+ 
+
+Discussion
+
+Patients with chronic anemia related to gastrointestinal hemorrhage secondary to vascular lesions represent a diagnostic and therapeutic challenge for clinical gastroenterologists, as many of them suffer from relevant co morbidities that complicate the realization of invasive procedures. Moreover, the treatment of associated anemia implies major economical costs (4,6).
+
+We have performed a retrospective single-centre study that includes all the patients that have been treated with OCT-LAR in the above explained indication. We have excluded from the analysis all the patients whose treatment was shorter than 3 months, as we considered that it was an insufficient time to be able to evaluate its long-term benefit.
+
+We intended to establish a group of control among patients with digestive bleeding and chronic anemia during the same study period. However, in our hospital, we only start the treatment with octreotide when endoscopic treatment failed or is not feasible due to associated risks, such as relevant comorbidity. Therefore, it was impossible to find a group of control with similar baseline characteristics, in which repeated endoscopic and/or surgical treatment would be contraindicated. Nevertheless, in all cases there was a minimum of 14 weeks gap between the last endoscopic intervention and the start of the treatment; which reduces the risk of possible overvaluation of previous costs.
+
+Similarly, another factor that could play an important role in the final results was the dose of antiaggregant or anticoagulant treatment, both of which are frequently used in this group of patients. Before the start of OCT-LAR was considered, the necessity of continuing with this medication was assessed by a cardiologist and/or neurologist in each patient; dose adjustment of treatment suspension was performed in strictly indicated cases. All these changes were performed before the period that was included in our study. There were no posterior changes in the dosage of antiaggregants or in the ranges of INR in patients treated with dicumarinics.
+
+Our results demonstrate an acceptable efficacy in the treatment of gastrointestinal hemorrhage due to vascular lesions, with partial and complete response in 36.8 % respectively, and treatment failure rate of 26.3 %.
+
+In the current literature there are few studies that would assess this type of treatment prospectively. Brown et al. (8) published a paper in which he analyzed three prospective studies that included a total of 62 patients with a global response rate (complete or partial) of 76 % (IC 95 % 0.64-0.85).
+
+Junquera et al. (9) studied 32 patients that received subcutaneous octreotide at a dose of de 50 mcg twice a day during 1-2 years, and compared them to 38 patients that received placebo. In his work there were 23 % patients in which the treatment failed.
+
+More recently Nardone et al. (10) published a retrospective study, including 98 patients with digestive bleeding secondary to angiodysplasias. His results are superposable to those observed in our study, obtaining a complete response in 40.9 %, recurrence of hemorrhage in 32.6 %, and no response in 26.5 % of all cases.
+
+A Spanish study presented by Molina et al. (11) that evaluated 11 patients with significant comorbidity and advanced age found complete response in 18 % of the patients, although significant reduction of transfusion requirements and length of hospital admissions were observed after the start of the treatment.
+
+The optimal dose of OCT-LAR can vary and is not well-defined in the literature; most often doses between 10 and 30 micrograms monthly are used, and most studies were performed using the dose of 20 micrograms monthly. Most of our patients received 10 micrograms monthly. We do not know if higher doses would produce major clinical benefit, and we have not found any studies that would compare different doses of the medication.
+
+The side effects described so far are usually mild (colelithiasis, nausea, vomiting, abdominal pain, diarrhea or difficult control of diabetes) (12). In our series of patients no adverse effects were observed, except for one case in which colelithiasis was incidentally diagnosed in an otherwise asymptomatic patient. Given the retrospective character of the data collecting, it is possible that some minor side effects were not registered in patients' clinical history.
+
+At this moment, the optimal length of treatment has not been established. In most studies, OCT-LAR is maintained between 1 and 2 years, and the effect of treatment was maintained over approximately 1 year after stopping the treatment (9). In our patients, the mean treatment duration of OCT-LAR was of 26.3 months (range 6-84 months; SD 17.8). Four patients that have been receiving treatment for more than 24 months, presented an excellent tolerance, maintaining clinical response with frequent previous exacerbations, which were the motives for long treatment administration. The treatment was stopped in three patients who failed to respond. Two patients who required increase in dose of OCT-LAR due to new episode of hemorrhage, presented good response to higher dose and continue with the treatment.
+
+In our study we concluded that treatment with OCT-LAR seems to be a reasonable and cost-effective therapeutic modality in patients with relevant comorbidities, given the significant reduction in total treatment costs resulting from decrease in number of hospital admissions and their length, decrease in admissions to emergency department, decrease in dose of iron supplements, darbopoetin and/or number of blood transfusions. To our knowledge, there is currently no similar study that would evaluate this aspect of the treatment and given high price of the drug we consider that it is essential to assess it, as it may change its use in this indication. Based on the results of the present study we consider that our criteria of the start of OCT-LAR therapy are reasonable and are in accordance with good clinical conduct.
+
+It should be emphasized that the reduction of costs has not been observed in patients that did not require frequent blood transfusions or hospital admissions, or in case of cirrhotics with portal hypertension, although limited number of patients prevents us from making further conclusions.
+
+Previous studies have described promising results in the treatment of EVAG in patients with cirrhosis (9,13). Nardone et al. (14) included 3 cirrhotic patients with portal hypertension and EVAG that were treated with octreotide, achieving complete response in one of them and decrease transfusion requirements during 2 years of follow-up.
+
+Thalidomide has been used as an alternative to the treatment with OCT-LAR. The data available in the literature are limited, based on case reports or series of cases, which have also shown effectiveness in terms of reduction of in transfusional requirements (including its capacity to complete resolution of the endoscopical image of vascular lesions) (15,16). In our centre, we have indicated the administration of thalidomide in case of only one patient, in whom the drug had to be stopped due to its adverse effects.
+
+As previously mentioned, the principal limitations of our study are the fact that it was retrospective, single-center and with small number of patients. However, our results are very similar to those in previously published studies, contributing additional information about the effectivity of the treatment.
+
+In conclusion, OCT-LAR seems to be an efficient treatment option in patients with chronic gastrointestinal haemorrhage secondary to vascular malformations, mainly in patients with relevant comorbidity that makes other therapeutical modalities more difficult. In spite of its relatively high costs, in the present study we describe a significant decrease in total costs in patients with clinical response.
+
+Prospective and multicentric studies are needed to confirm these results.
+
+
+
+Infectious etiology of diarrheas studied in a third-level hospital during a five-year period
+ 
+
+ABSTRACT
+
+Introduction and objective: Infectious diarrheas are highly frequent and responsible for a major consumption of resources. This study identified the main diarrhea-causing microorganisms in a health area of Granada (Spain) and determined changes in the epidemiologic pattern over a five-year period. 
+Material and method: A retrospective study was conducted based on results obtained in the Microbiology Laboratory of Hospital Universitario Virgen de las Nieves (Granada, Spain). 
+Results: Out of the 25,113 stool microbiological and/or parasitological studies ordered, 2,292 microorganisms were identified in 2,152 samples from 1,892 patients. There was a predominance of bacterial diarrheas (50.1 %), mainly caused by Campylobacter spp. (22.2 %), whose frequency increased significantly during the last two years, and by Salmonella spp. (16.4 %), whose frequency remained stable during the whole study period. We highlight the high frequency of Rotavirus (33.5 %), although a significant decrease was observed during the last two years. Salmonella spp. was more frequently detected during the summer and autumn, Campylobacter spp. during the spring, and Rotavirus during the winter. Viral processes were predominant (53.3 %) in pediatric patients, mainly Rotavirus in under 2-yr-olds, whereas bacterial processes predominated in older children and adults. Diarrhea began at community level in 84.2 % of patients, requiring hospitalization in 25.8 % of cases, and diarrhea was nosocomial in the remaining 15.8 %. 
+Conclusions: During the study period, there was a significant increase in the frequency of diarrhea caused by Campylobacter spp., a significant reduction in the frequency of diarrhea due to Rotavirus, and no change in the frequency of diarrhea due to Salmonella spp., all of which showing a marked seasonal distribution.
+
+Key words: Diarrhea. Rotavirus. Campylobacter spp. Salmonella spp.
+
+
+Introduction
+
+Infectious diarrhea is a clinical situation experienced by most humans on one or many occasions throughout their lives. Although usually self-limiting, with scant local or systemic repercussion, it can occasionally produce an important clinical deterioration that requires specific therapeutic measures or hospitalization and can even, in the most severe cases, end in the death of the patient. It represents a major public health problem responsible for elevated health costs and resource consumption in both primary and hospital care (1,2).
+
+The characteristics of the diarrhea and the clinical situation of the affected individual largely depend on the pathogen involved and patient-related factors, such as age, immune response capacity, mucosal structure, and gut microbiota (3). The most frequently involved microorganisms are: bacteria, such as Salmonella spp., Campylobacter spp., Yersinia spp., Shigella spp., Aeromonas spp., Escherichia coli, Listeria monocytogenes, Staphylococcus aureus, Bacillus cereus, Clostridium difficile, or Clostridium perfringens, among others; viruses, such as Rotavirus, Norovirus or Adenovirus; and protozoa, such as Giardia lamblia, Cryptosporidium parvum, Isospora belli, Entamoeba histolytica, or Cyclospora cayetanensis.
+
+The digestive transmission of these microorganisms from the intake of contaminated food or water and their interpersonal transmission are responsible for outbreaks or epidemics, although most cases of diarrhea are sporadic. It is difficult to establish the true incidence of infectious diarrhea, because it is a self-limiting process and not all patients seek medical care for this condition (4). Moreover, microbiological studies are not always conducted and, when performed, do not always identify the pathogen (2). Although the main treatment, based on oral rehydration measures, is often adequate, some situations require specific antimicrobial treatment (1). This should be prescribed as a function of the clinical status of the patient and the microorganisms most frequently involved in the etiology of the process in each geographic area.
+
+The objective of this study was to identify the main microorganisms causing infectious diarrhea in our setting between 2007 and 2012 and establish their relative frequency and distribution according to the sex and age of patients, the origin of the sample or ordering department, and their annual and seasonal time course.
+
+ 
+
+Material and method
+
+A retrospective descriptive study was conducted using the data from the MicrobDynamic laboratory information system (Francisco Soria Melguizo, SA, Madrid, Spain) of the Microbiology Department of the Hospital Universitario Virgen de las Nieves (Granada, Spain) on the results of microbiological and/or parasitological diagnostic tests of stool samples from patients with episodes of diarrhea and/or non-acute abdominal pain, ordered between October 1, 2007 and September 30, 2012. The hospital complex comprises three hospitals (General/Specialty Hospital, Maternity/Child Hospital, and Traumatology and Rehabilitation Hospital) that meet the demands of the North Hospital Area of Granada province, which includes the Primary Care Health Districts of North Granada, Santa Fe, and Guadix and the Basic Health Area of Alcalá la Real (Jaén, Spain), serving a reference population of around 440,000 inhabitants.
+
+Figure 1 depicts the process of recovering data from the registry of microbiological samples. Searches of the laboratory information system yielded the results of all tests conducted in stool samples during the study period. Those with negative results were excluded (reported at the time as "no enteropathogenic bacteria detected", "negative antigen detection", "absence of fresh parasitic forms", or "absence of acid-fast organisms"): We only selected those with positive microbiological and/or parasitological results, i.e., indicating the presence of the microorganism (bacteria, virus, or parasite) detected and identified in the sample and therefore considered as etiologically responsible for the clinical process motivating the request for the study.
+
+A specific database was designed to collect relevant information based on the positive results selected. Data were gathered on: The affiliation of each patient (by clinical record number and his/her initials), dates of the reception of the sample and the emission of the report of the results, demographic variables (age, sex, and place of residence), outpatient or hospital origin of the sample (and, in the latter case, the department in which the patients were hospitalized), and, finally, the microorganism(s) identified. In order to avoid inclusion bias in the positive results, a control of duplicates was performed by using the clinical record number and initials of patients. In cases in which there was more than one positive result for a single patient, we ruled out studies with an interval of less than 7 days between the reception of the stool sample and the emission of a previous report and with the same microbiological and/or parasitological result, which were considered duplicate or control studies.
+
+Next, the Integrated System of Management and Information for Health Care in Andalusia (Spanish initials, DIRAYA) was used to review the digitalized clinical records of the selected patients and collect clinical data (presence of abdominal pain, dehydration, neurological disorders, or fever, characteristics of the stool, duration of the episode, and days of hospital stay, when appropriate), personal history of interest, hospital or community origin of the diarrhea (considered of hospital/nosocomial origin when the onset was more than 72 h after hospital admission or less than 72 hours after hospital discharge), and other analytical data.
+
+Non-parametric statistical tests were applied. Binomial tests were used to compare the detection frequency of each microorganism as a function of the patients' sex and age; and the Kruskal-Wallis and Mann-Whitney U tests were used to compare the length of hospital stay as a function of the etiology of the clinical process, to evaluate changes in the annual and seasonal distribution of each microorganism, and to establish the possible association of these changes with temporal variations in the number of microbiological and/or parasitological studies ordered. SPSS 18.0 software was used for the statistical analysis. P<0.05 was considered significant in all tests.
+
+ 
+
+Results
+
+Description and distribution of the microorganisms identified
+
+Out of a total of 25,113 requests for microbiological and/or parasitological studies during the five-year study period, 2,292 clinically relevant microorganisms were identified in 2,152 stool samples from 1,892 different patients, yielding an accumulated 5-year incidence of 430 cases/100,000 inhabitants in the reference population. According to these results, an average of around one study in ten yielded a positive result, with a mean of 38 microorganisms identified per month from a mean of around 419 requests per month. Table I shows the distribution of these microorganisms by genus and species and their percentage with respect to the number of requests for microbiological and/or parasitological study for each type of microorganism.
+
+ 
+
+
+
+ 
+
+We identified 1,149 bacteria (50.1 % of all microorganisms) from 15,062 requests for stool culture or C. difficile toxin detection by immunochromatography, giving a diagnostic performance of 7.6 positive results per 100 studies conducted. The best-performing diagnostic procedure was the detection of viruses in stool samples, with 1,001 viruses (43.7 % of identified microorganisms) being identified out of 3,049 requests, a mean of 33 positive results per 100 studies conducted. The detection of parasites was the worst-performing procedure, with 142 (6.2 %) being identified out of 7,002 requests, an average of 2 positive results per 100 studies conducted.
+
+Although there was a predominance of bacterial diarrheas, especially those caused by Campylobacter spp. (n = 509; 22.2 %) and Salmonella spp. (n = 377; 16.4 %), we highlight the elevated relative frequency of Rotavirus (n = 768; 33.5 %). Among the parasites, only G. lamblia, Entamoeba coli, E. histolytica, Endolimax nana, and Cryptosporidium spp. were detected in patients with diarrhea; the remaining parasites were identified in patients with non-specific abdominal discomfort or non-acute abdominal pain. A single microorganism was identified as responsible for the clinical process in 2,017 samples (93.7 %), while more than one microorganism was detected in 135 samples, most frequently a combination of two viruses (85 samples), notably Rotavirus-Adenovirus (78 cases). In 110 patients, the same microorganism was detected in two or more samples obtained with an interval of more than one week.
+
+Distribution of infections according to the sex and age of patients
+
+Among the 1,878 patients for whom sex was recorded (99.3 % of the total study sample), 53.0 % were males. Bacterial and viral infections were significantly more frequent in males (53.2 % vs. 46.8 %, p = 0.031; and 54.7 % vs. 45.3 %, p = 0.003; respectively), whereas parasitizations were more frequent in females (58.7 % vs. 41.3 %, p = 0.045).
+
+Among the 1,851 patients (97.8 %) for whom the age was recorded, the mean age was 14.9 ± 24.5 yrs (ranging from 1 month to 100 yrs); 75.5 % of patients were under-14-yr-olds, and the under-2-yr-old age range was the most frequent (47.1 %). Among the infants, there was a higher frequency of viral (53.3 % of cases) versus bacterial (41.9 %) and parasitical (4.8 %) cases, although the classification by age ranges showed that this predominance was largely attributable to the high frequency of viral diarrhea due to Rotavirus in the under-2-yr-olds, with bacterial infections being more frequent at older ages. Among the adults, bacterial infections were significantly more frequent than the other etiologies considered together in all age ranges (78.2 % vs. 21.8 %, p < 0.001).
+
+Differences in the origin of the sample and department ordering the study
+
+Out of the 2,149 cases (99.9 %) for which the origin of the sample was recorded; 44.4 % derived from primary or specialized care outpatient departments, 34.6 % from hospital departments, and 20.1 % from the emergency area. therefore, most (64.5 %) of the microorganisms identified were from outpatient samples. In addition, 0.9 % of samples were from other hospitals -Hospital Provincial San Juan de Dios (Granada, Spain), Hospital de Alta Resolución de Alcalá la Real (Granada, Spain), and Complejo Hospitalario de Jaén (Jaén, Spain). The clinical samples in which bacteria and parasites were identified were mainly from outpatient departments, while the samples in which viruses were identified were mainly from hospital departments, notably the Pediatrics Department. Samples of under-2-yr-old patients were most frequently from hospital departments (Pediatrics, Pediatric ICU, or Pediatric Surgery), whereas those from older children were mainly from outpatient departments. Samples from adult patients aged between 15 and 44 yrs were most frequently from outpatient departments, especially from Primary Care and Gastroenterology Departments, while samples from older patients were most frequently from hospital departments.
+
+Out of the 1,811 (95.7 %) patients for whom the origin of the clinical process was recorded, it was community acquired in 1,525 patients (84.2 %), 393 (25.8 %) of whom required hospitalization, and it began during a previous hospitalization for a reason other than diarrhea or after hospital discharge in the other 286 patients (15.8 %). In both cases, the clinical process was nosocomial diarrhea, and it was an intercurrent process in 56 % of these patients. The diarrheas most frequently requiring hospitalization were those of viral origin (> 50 %) and, in all cases, more than half of the admissions were intercurrent. The mean hospital stay was 6.2 ± 6.5 days for the 393 patients requiring hospitalization, all as a consequence of diarrhea, but was 25.2 ± 38.1 days for those with intercurrent diarrhea (17 ± 15.3 days when the 26 patients with extreme hospital stays > 70 days are not considered).
+
+Table II summarizes the main demographic and epidemiologic data associated with the most frequently identified microorganisms. Diarrheas caused by Campylobacter spp., Rotavirus, and Adenovirus were significantly more frequent in males versus females, with no gender differences in those produced by Salmonella spp. or G. lamblia. Moreover, they were all (except for those produced by G. lamblia) significantly more frequent in under-14-yr-old children, especially the viruses, as commented above. In most cases, the samples were of community origin (Primary Care and Specialized Care Outpatients), given that in more than 75 % of cases, according to the etiology, the clinical process began at outpatient level and did not require hospitalization (except in the case of diarrhea due to Rotavirus, with around half of the samples coming from hospitalization rooms in the Pediatric Department, despite their more frequent outpatient onset, given the need for the hospitalization of patients as a consequence of the clinical course).
+
+When the diarrhea was caused by any of these microorganisms (Table II), the mean hospital stay was longer when the clinical process was caused by G. lamblia (23.3 days ± 21.2), Campylobacter spp. (22.3 days ± 47), or Rotavirus (20.5 days ± 43.5). However, there were no statistically significant differences (p > 0.05 in all cases) in hospital stay among these etiologies or in comparison to others, such as Salmonella spp. (10.1 days ± 19) or Adenovirus (18.9 days ± 27.3).
+
+Annual and seasonal distribution of infectious diarrheas
+
+Finally, we analyzed the annual (considering periods between October and September) and seasonal distribution of the number and type of microorganisms identified in relation to temporal variations in the number of requests for microbiological and/or parasitological studies of stool samples during the study period. A significant increase (p = 0.016) was observed in the detection of bacteria during the last two years, which was not a consequence of the increase in requests, which remained stable and with no seasonal variations. Considering only the most frequently identified bacteria (Fig. 2A), it can be observed that the frequency of Campylobacter spp. significantly increased during the last two years in comparison to the rest of the study period (p = 0.029), with more than double the number of cases during the last year with respect to the first three years, while cases of Salmonella spp. (and of other bacteria) remained stable during the study period. The seasonal distribution of these bacteria (Fig. 2B) showed that Salmonella spp. was more frequently detected during the summer and autumn and Campylobacter spp. during the spring. Moreover, there were peaks of higher relative frequency of bacterial diarrheas in June 2008, May 2011, September 2011, and August 2012.
+
+ 
+
+
+
+ 
+
+The annual development and seasonal distribution of predominant viruses were also analyzed, showing that Rotavirus was the most frequent during the period 2008-2010 (Fig. 2A), followed by a significant reduction (p = 0.043). Consideration of the frequency of Rotavirus as a function of the season (Fig. 2B) showed that the number of cases during the winter was significantly higher than in the other seasons (p = 0.016), which was not the case for the other viruses, especially Adenovirus, which showed no significant seasonal differences. There were peaks of higher relative frequency of viral diarrheas in April 2008 and May-July 2009, i.e., outside the winter period, although comparison of these frequencies with those observed for the same months in different years yielded no significant differences (p = 0.406).
+
+With respect to parasites, the relative frequency was in general low, with no significant annual or seasonal differences throughout the study period, although a peak was observed in July 2008.
+
+ 
+
+Discussion
+
+In our study, Rotavirus, Campylobacter spp., and gastroenteric Salmonella were, in this order, the most frequently identified microorganisms in stool samples from patients with diarrhea. In general, bacterial and viral infections were more frequent in males than in females at all age ranges, in agreement with observations by other authors. In adult ages, this may be attributable to the higher frequency of risk practices in males than in females, including less care in the handling of food or the greater consumption of undercooked food (5). However, this would not explain the higher frequency among male children, because no sex differentiation in risk practices can be affirmed in early ages.
+
+Various authors have reported that these three microorganisms show the highest incidence rates during infancy (6). We also found that the under-2-yr-old children had the highest frequency of viral diarrheas, especially due to Rotavirus (including frequent coinfections with Adenovirus), with bacterial infections being predominant at older ages. Among the latter, the mean age of pediatric patients with diarrhea caused by Campylobacter spp. was lower than the age of those with salmonellosis, as demonstrated in other studies (7), and this difference in age was also observed in the adult population.
+
+Most of the stool samples that yielded positive results were of out-of-hospital origin, because the clinical procedure began in an outpatient setting. However, among the under-2-yr-old patients, the stool samples were mainly from hospital departments, either because, despite the out-of-hospital onset, they required hospital admission, a common practice due to their young age and to the clinical characteristics of diarrhea, which can course with intense dehydration (8-10), or because the viral diarrhea was nosocomial, which is also frequent (11).
+
+Regardless of the etiology, patients with viral diarrhea more often required hospitalization and their mean hospital stay was longer than that of patients with bacterial diarrhea. Among the latter, hospitalization was more frequent when diarrhea was produced by Salmonella spp. but the duration of hospital stay, if required, was longer when the cause was Campylobacter spp. As indicated by other authors, there is a characteristic dissociation between the high frequency of diarrhea due to Campylobacter spp. and the low need for hospitalization, contrasting with observations in the case of Salmonella spp. (12). The greater length of hospital stays by patients with diarrhea due to G. lamblia is because the admission was intercurrent in 75 % of these cases.
+
+The present study also showed a significant increase in diarrheas caused by Campylobacter spp. and a significant decrease in those due to Rotavirus during the last two years of the study, with no change in diarrheas caused by Salmonella spp. No studies have been published in our health area that could indicate whether this a current trend; however, various studies conducted in other areas of Spain during the past two decades have demonstrated that there has been an epidemiologic change, from situations in which rates of infection due to Salmonella spp. were higher than those caused by Campylobacter spp. (13) to a completely opposite situation, with a progressive increase in the frequency of clinical cases produced by Campylobacter spp. (12,14,15). At any rate, this increase was observed during the last two years of the study and we could not establish whether it was due to epidemic outbreaks, because of the lack of recorded data to confirm this possibility with complete reliability; higher peaks of frequency of bacterial diarrheas were observed in May 2011, September 2011, and August 2012, which may correspond to outbreaks, but they were not documented as such. For this reason, cannot establish whether this trend will be maintained trend in subsequent years or is an exceptional situation that may subsequently be reversed.
+
+On the other hand, two oral vaccines against Rotavirus formed by live attenuated viruses (one monovalent, which includes serotype G1P1A, and another pentavalent, with serotypes G1 to G4 and P1A) have been commercialized in Spain since 2007, and both have demonstrated their effectiveness in various studies (16-18). Although these vaccines have not yet been included in the vaccine calendar, they are recommended by various scientific societies, including the Spanish Pediatrics Association (Asociación Española de Pediatría), and are frequently prescribed and recommended to parents by pediatricians for infants under 6 months old. According to some authors, this has translated into a gradual increase in vaccine coverage year by year (19) and has been associated with a significant reduction in the incidence of diarrheas by Rotavirus and especially in hospitalizations for this reason (8,19). However, some authors consider that it is difficult to determine the true data on vaccine coverage in our country, and it is therefore not possible to establish a definitive causal relationship (10).
+
+The pattern of seasonal distribution of the most frequent infectious diarrheas in this study was similar to that reported by other authors: Salmonella spp. was detected more frequently during the summer and autumn (13,20), Campylobacter spp. during the spring (5), and Rotavirus during the winter (8,19). Although it is possible that the detected peaks may correspond to epidemic outbreaks, the recorded data do not allow this to be definitively confirmed.
+
+Given that our study was retrospective and based on the reports emitted by the Microbiology Department, an important limitation is that these reports occasionally lacked some important demographic data for the patients (because they are sometimes not included in the order form attached to the sample or, in the case of requests from Primary Care, because it was not possible to access the clinical records electronically). Therefore, these data were not complete for all study patients. It was only possible to gather data, although incomplete, on data such as the sex and age of patients, the community or hospital origin of the sample, and the department ordering the microbiological study. Likewise, the systematic gathering of some important clinical data related to the clinical process in each of the study episodes was not possible (including personal history of interest, characteristics of the stool, pathological products, or presence of abdominal pain, fever, dehydration, neurological disorders, biochemical and/or hematological analytical disorders, etc.). This was because in most cases the medical reports and clinical records did not include this information, the report was incomplete in cases in which some data could be gathered, or it was not possible to differentiate whether clinical/analytical data in the report were due to the clinical process that originated the request for the microbiological and/or parasitological analysis or to other concomitant diseases. Thus, in the cases in which the same microorganism was detected in two or more samples obtained with an interval of > 1 week, it could not be determined whether this situation was due to a persistence of the microorganism in the patient or to a re-infection by the same microorganism, because there was no negative study between the two samples and there were no data indicating the clinical evolution of the patient during this time.
+
+Another important limitation is that, as in other studies, patients with symptoms of diarrhea and/or non-acute abdominal pain whose physicians did not order stool microbiological and/or parasitological study were not recorded; hence, the true data are underestimated and largely determined by the severity of the clinical process. Nevertheless, the data provided in the present study are comparable with those of various regional, national, and international studies conducted in similar situations.
+
+In conclusion, there was a significant increase in the frequency of diarrheas due to Campylobacter spp. in our health area during the study period and a significant decrease in those produced by Rotavirus, while the frequency of processes caused by Salmonella spp. did not change. These microorganisms also showed a marked seasonal distribution. Further periodical studies in the same area are necessary to definitively confirm these trends and verify whether they truly correspond to an epidemiologic change or simply respond to exceptional situations.
+
+
+
